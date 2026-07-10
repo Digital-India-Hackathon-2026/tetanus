@@ -76,7 +76,7 @@ export default function SellerView() {
   };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8 space-y-8 bg-white text-brand-text select-none">
+    <div className="max-w-7xl mx-auto px-4 py-8 space-y-8 bg-transparent text-white select-none">
       
       {/* 1. Intelligence Loop Header */}
       <IntelligenceLoop onStateChange={handleStateChange} />
@@ -85,31 +85,31 @@ export default function SellerView() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         
         {/* Metric 1 */}
-        <div className="border border-brand-border-dark rounded-2xl p-5 bg-white text-left space-y-1 hover:shadow-sm transition-all duration-300">
-          <div className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">Today's Sales</div>
+        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
+          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Today's Sales</div>
           <div className="flex items-baseline justify-between">
-            <span className="text-2xl font-black text-brand-text">{stats.todaySales}</span>
-            <span className="text-xs font-bold text-slate-650">{stats.salesChange}</span>
+            <span className="text-2xl font-black text-white">{stats.todaySales}</span>
+            <span className="text-xs font-bold text-emerald-400">{stats.salesChange}</span>
           </div>
         </div>
 
         {/* Metric 2 */}
-        <div className="border border-brand-border-dark rounded-2xl p-5 bg-white text-left space-y-1 hover:shadow-sm transition-all duration-300">
-          <div className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">Active Orders</div>
+        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
+          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Active Orders</div>
           <div className="flex items-baseline justify-between">
-            <span className="text-2xl font-black text-brand-text">{stats.activeOrders}</span>
-            <span className="text-xs font-semibold text-slate-400">▲ 2 today</span>
+            <span className="text-2xl font-black text-white">{stats.activeOrders}</span>
+            <span className="text-xs font-semibold text-zinc-400">▲ 2 today</span>
           </div>
         </div>
 
         {/* Metric 3 */}
-        <div className="border border-brand-border-dark rounded-2xl p-5 bg-white text-left space-y-1 hover:shadow-sm transition-all duration-300">
-          <div className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">Low Stock Alerts</div>
+        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
+          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Low Stock Alerts</div>
           <div className="flex items-baseline justify-between">
-            <span className={`text-2xl font-black ${stats.puzzleStock <= 5 ? 'text-red-655 font-extrabold' : 'text-brand-text'}`}>
+            <span className={`text-2xl font-black ${stats.puzzleStock <= 5 ? 'text-red-400 font-extrabold' : 'text-white'}`}>
               {stats.lowStockCount}
             </span>
-            <span className="text-xs font-bold text-slate-400">
+            <span className="text-xs font-bold text-zinc-400">
               {stats.puzzleStock <= 5 ? "▼ needs action" : "▲ stable"}
             </span>
           </div>
@@ -127,33 +127,33 @@ export default function SellerView() {
           <SignalFeed searchesCount={stats.dinoSearches} stockLeft={stats.puzzleStock} />
 
           {/* Live Alerts Panel (Monochrome layouts, warm red ONLY for stock warnings) */}
-          <div className="border border-brand-border-dark rounded-2xl p-5 space-y-4 bg-white">
-            <div className="flex items-center justify-between border-b border-brand-border pb-3">
-              <h3 className="text-xs font-bold text-brand-text tracking-widest uppercase flex items-center gap-1.5 leading-none">
-                <Bell className="w-4 h-4 text-brand-text" />
+          <div className="border border-white/5 rounded-2xl p-5 space-y-4 bg-zinc-900/40 backdrop-blur-md">
+            <div className="flex items-center justify-between border-b border-white/5 pb-3">
+              <h3 className="text-xs font-bold text-zinc-300 tracking-widest uppercase flex items-center gap-1.5 leading-none">
+                <Bell className="w-4 h-4 text-violet-400" />
                 Live Alerts
               </h3>
               <span className="flex h-2 w-2 relative">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-slate-900 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2 w-2 bg-slate-900"></span>
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-violet-500 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-violet-500"></span>
               </span>
             </div>
             
             <div className="space-y-3">
               {/* Critical Alert with reserved Warm Red */}
               {stats.puzzleStock <= 5 ? (
-                <div className="flex gap-3 bg-red-50 border border-red-600 rounded-xl p-3.5 text-xs text-red-650">
-                  <AlertTriangle className="w-5 h-5 text-red-600 flex-shrink-0" />
+                <div className="flex gap-3 bg-red-950/20 border border-red-500/30 rounded-xl p-3.5 text-xs text-red-300 shadow-[0_0_15px_rgba(239,68,68,0.15)]">
+                  <AlertTriangle className="w-5 h-5 text-red-555 flex-shrink-0" />
                   <div className="text-left leading-normal">
                     <span className="font-extrabold block mb-0.5 uppercase tracking-wide">Stockout Risk Critical</span>
                     Dinosaur Puzzle Set inventory is down to {stats.puzzleStock} units. Spiked demand has outrun available warehouse stocks.
                   </div>
                 </div>
               ) : (
-                <div className="flex gap-3 bg-slate-50 border border-brand-border rounded-xl p-3.5 text-xs text-slate-700">
-                  <CheckCircle className="w-5 h-5 text-slate-650 flex-shrink-0" />
+                <div className="flex gap-3 bg-emerald-950/10 border border-emerald-500/20 rounded-xl p-3.5 text-xs text-emerald-300 shadow-[0_0_15px_rgba(16,185,129,0.08)]">
+                  <CheckCircle className="w-5 h-5 text-emerald-450 flex-shrink-0" />
                   <div className="text-left leading-normal">
-                    <span className="font-extrabold text-brand-text block mb-0.5 uppercase tracking-wide">Alert Resolved</span>
+                    <span className="font-extrabold text-white block mb-0.5 uppercase tracking-wide">Alert Resolved</span>
                     Dinosaur Puzzle Set reordered. Stock replenishing to safety limits.
                   </div>
                 </div>
@@ -161,19 +161,19 @@ export default function SellerView() {
 
               {/* Spikes / Other Alerts - Strictly Monochrome */}
               {stats.dinoSearches > 0 && (
-                <div className="flex gap-3 bg-slate-50 border border-brand-border rounded-xl p-3.5 text-xs text-slate-650">
-                  <TrendingUp className="w-5 h-5 text-brand-text flex-shrink-0" />
+                <div className="flex gap-3 bg-indigo-950/15 border border-indigo-500/20 rounded-xl p-3.5 text-xs text-indigo-300 shadow-[0_0_15px_rgba(99,102,241,0.08)]">
+                  <TrendingUp className="w-5 h-5 text-indigo-400 flex-shrink-0" />
                   <div className="text-left leading-normal">
-                    <span className="font-extrabold text-brand-text block mb-0.5 uppercase tracking-wide text-left">Traffic Spike</span>
+                    <span className="font-extrabold text-white block mb-0.5 uppercase tracking-wide text-left">Traffic Spike</span>
                     Search counts for 'dinosaur gifts' saw a 300% volume increase today.
                   </div>
                 </div>
               )}
 
-              <div className="flex gap-3 bg-slate-50 border border-brand-border rounded-xl p-3.5 text-xs text-slate-400">
-                <ShoppingBag className="w-5 h-5 text-slate-455 flex-shrink-0" />
+              <div className="flex gap-3 bg-zinc-900/60 border border-white/5 rounded-xl p-3.5 text-xs text-zinc-400">
+                <ShoppingBag className="w-5 h-5 text-zinc-400 flex-shrink-0" />
                 <div className="text-left leading-normal">
-                  <span className="font-bold text-slate-600 block mb-0.5 uppercase tracking-wide">Sync Status</span>
+                  <span className="font-bold text-zinc-300 block mb-0.5 uppercase tracking-wide">Sync Status</span>
                   External integrations and listings are in sync.
                 </div>
               </div>

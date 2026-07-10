@@ -26,12 +26,12 @@ function NavigationHeader() {
   const RoleIcon = isSellerView ? Briefcase : User;
 
   return (
-    <header className="border-b border-brand-border bg-white sticky top-0 z-50">
+    <header className="border-b border-amber-500/10 bg-[#fcfbfa]/80 backdrop-blur-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         
         {/* Logo / Wordmark */}
         <Link to="/" className="flex items-center gap-2.5 group">
-          <div className="p-1.5 bg-brand-block-bg text-brand-block-text rounded-lg">
+          <div className="p-1.5 bg-amber-600 text-white rounded-lg">
             <Cpu className="w-4 h-4" />
           </div>
           <div>
@@ -39,7 +39,7 @@ function NavigationHeader() {
               <span className="font-extrabold text-sm tracking-tight text-brand-text uppercase">
                 CommerceOS
               </span>
-              <span className="h-1.5 w-1.5 rounded-full bg-brand-block-bg animate-pulse" title="Connected" />
+              <span className="h-1.5 w-1.5 rounded-full bg-amber-600 animate-pulse" title="Connected" />
             </div>
             <span className="text-[9px] font-bold text-slate-400 tracking-wider uppercase block leading-none mt-0.5">
               Platform Terminal
@@ -50,8 +50,8 @@ function NavigationHeader() {
         {/* Active Role Label & Sign Out */}
         <div className="flex items-center gap-3.5">
           {/* Static Active Role Indicator (No Toggle) */}
-          <div className="flex items-center gap-2 px-3 py-1.5 border border-brand-border bg-slate-50 rounded-xl">
-            <div className="p-1 bg-brand-block-bg text-white rounded-lg">
+          <div className="flex items-center gap-2 px-3 py-1.5 border border-amber-500/10 bg-amber-500/5 rounded-xl">
+            <div className="p-1 bg-amber-600 text-white rounded-lg">
               <RoleIcon className="w-3.5 h-3.5" />
             </div>
             <div className="text-left">
@@ -63,7 +63,7 @@ function NavigationHeader() {
           {/* Reset Demo Button */}
           <button
             onClick={handleReset}
-            className="flex items-center gap-1 px-3 py-2 rounded-xl border border-brand-border text-slate-500 hover:text-brand-text hover:border-brand-border-dark transition-all text-xs font-semibold cursor-pointer"
+            className="flex items-center gap-1 px-3 py-2 rounded-xl border border-amber-500/10 text-slate-600 hover:text-amber-700 hover:border-amber-500/30 transition-all text-xs font-semibold cursor-pointer"
             title="Reset Demo State"
           >
             <RefreshCw className="w-3.5 h-3.5" />
@@ -76,7 +76,7 @@ function NavigationHeader() {
             onClick={() => {
               localStorage.clear();
             }}
-            className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-brand-block-bg hover:bg-slate-800 text-white text-xs font-bold transition-all"
+            className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-amber-600 hover:bg-amber-750 text-white text-xs font-bold transition-all"
             title="Log Out"
           >
             <LogOut className="w-3.5 h-3.5" />
@@ -99,7 +99,7 @@ function Footer() {
   }
 
   return (
-    <footer className="border-t border-brand-border py-8 bg-slate-50 mt-auto">
+    <footer className="border-t border-amber-500/10 py-8 bg-[#fcfbfa]/50 mt-auto">
       <div className="max-w-7xl mx-auto px-4 text-center space-y-2">
         <div className="flex items-center justify-center gap-2 text-slate-500 text-xs font-medium">
           <Layers className="w-4 h-4 text-brand-text" />
@@ -116,7 +116,7 @@ function Footer() {
 export default function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-white flex flex-col justify-between">
+      <div className="min-h-screen bg-transparent flex flex-col justify-between">
         <div>
           <NavigationHeader />
           <main>

@@ -112,12 +112,12 @@ export default function LandingPage() {
   }, []);
 
   return (
-    <div className="relative min-h-[calc(100vh-4rem)] w-full bg-white flex flex-col md:flex-row items-center justify-center px-6 md:px-16 lg:px-24 py-12 overflow-hidden select-none">
+    <div className="relative min-h-[calc(100vh-4rem)] w-full bg-transparent flex flex-col md:flex-row items-center justify-center px-6 md:px-16 lg:px-24 py-12 overflow-hidden select-none">
       
       {/* Visual background lines (Blueprint aesthetic) */}
-      <div className="absolute inset-0 grid grid-cols-12 pointer-events-none opacity-[0.03] border-b border-brand-text/10">
+      <div className="absolute inset-0 grid grid-cols-12 pointer-events-none opacity-[0.03] border-b border-white/10">
         {[...Array(12)].map((_, i) => (
-          <div key={i} className="border-r border-brand-text h-full" />
+          <div key={i} className="border-r border-white/10 h-full" />
         ))}
       </div>
 
@@ -125,31 +125,31 @@ export default function LandingPage() {
       <div className="w-full md:w-1/2 flex flex-col justify-center space-y-8 z-10 text-left">
         {/* Wordmark logo */}
         <div className="flex items-center gap-2">
-          <div className="p-1.5 bg-brand-block-bg text-brand-block-text rounded-lg">
+          <div className="p-1.5 bg-gradient-to-r from-violet-600 to-indigo-600 text-white rounded-lg shadow-[0_0_15px_rgba(139,92,246,0.4)]">
             <Cpu className="w-4 h-4" />
           </div>
-          <span className="font-bold text-xs uppercase tracking-widest text-brand-text">
+          <span className="font-bold text-xs uppercase tracking-widest text-zinc-300">
             CommerceOS
           </span>
         </div>
 
         {/* Dynamic alive Headline */}
         <div className="space-y-4">
-          <h1 className="text-5xl lg:text-7xl font-extrabold tracking-tighter text-brand-text uppercase leading-none">
+          <h1 className="text-5xl lg:text-7xl font-extrabold tracking-tighter text-white uppercase leading-none">
             Commerce <br />
-            <span className="text-slate-400">Connected.</span>
+            <span className="bg-gradient-to-r from-violet-400 to-pink-400 bg-clip-text text-transparent">Connected.</span>
           </h1>
           <div className="h-12 overflow-hidden relative">
             {phrases.map((phrase, idx) => (
               <div
                 key={idx}
-                className="absolute inset-x-0 transition-all duration-700 ease-in-out text-sm sm:text-base lg:text-lg font-bold tracking-tight text-brand-text flex items-center gap-2"
+                className="absolute inset-x-0 transition-all duration-700 ease-in-out text-sm sm:text-base lg:text-lg font-bold tracking-tight text-zinc-200 flex items-center gap-2"
                 style={{
                   transform: `translateY(${(idx - activeTextIndex) * 100}%)`,
                   opacity: idx === activeTextIndex ? 1 : 0
                 }}
               >
-                <span className="h-1.5 w-1.5 rounded-full bg-brand-block-bg inline-block animate-pulse" />
+                <span className="h-1.5 w-1.5 rounded-full bg-violet-400 inline-block animate-pulse shadow-[0_0_8px_rgba(139,92,246,0.6)]" />
                 {phrase}
               </div>
             ))}
@@ -157,7 +157,7 @@ export default function LandingPage() {
         </div>
 
         {/* Subhead */}
-        <p className="text-sm lg:text-base text-slate-500 max-w-md font-medium leading-relaxed">
+        <p className="text-sm lg:text-base text-zinc-400 max-w-md font-medium leading-relaxed">
           CommerceOS links both sides of the transaction. Buyers query natural intent to receive structured purchasing maps, while sellers query analytics to capture real-time demand alerts.
         </p>
 
@@ -165,7 +165,7 @@ export default function LandingPage() {
         <div>
           <button
             onClick={() => navigate('/login')}
-            className="group px-7 py-4 rounded-full bg-brand-block-bg hover:bg-white text-white hover:text-brand-text border-2 border-brand-block-bg hover:border-brand-block-bg text-sm font-bold flex items-center gap-2.5 shadow-lg shadow-black/10 hover:shadow-black/5 transition-all duration-300 transform active:scale-95 cursor-pointer"
+            className="group px-7 py-4 rounded-full bg-gradient-to-r from-violet-600 to-indigo-600 hover:from-violet-500 hover:to-indigo-500 text-white border-2 border-transparent text-sm font-bold flex items-center gap-2.5 shadow-lg shadow-violet-500/20 hover:shadow-violet-500/30 transition-all duration-300 transform active:scale-95 cursor-pointer"
           >
             Get Started
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />

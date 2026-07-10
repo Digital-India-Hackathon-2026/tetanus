@@ -8,6 +8,11 @@ export default function ConsumerView() {
   const [loading, setLoading] = useState(false);
   const [loadingStatus, setLoadingStatus] = useState("Understanding your request...");
   const [results, setResults] = useState(null);
+  const [failedImages, setFailedImages] = useState({});
+
+  const handleImageError = (id) => {
+    setFailedImages(prev => ({ ...prev, [id]: true }));
+  };
 
   const quickSelectChips = [
     { label: "🦕 Dinosaur Gift (₹1500)", text: "Birthday gift for a 10-year-old who loves dinosaurs, budget ₹1500" },
@@ -75,11 +80,11 @@ export default function ConsumerView() {
   }, []);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8 space-y-12 bg-white text-brand-text">
+    <div className="max-w-6xl mx-auto px-4 py-8 space-y-12 bg-transparent text-[#1f2937]">
       
       {/* Header Block */}
       <div className="text-center space-y-3">
-        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-brand-text uppercase leading-none">
+        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-amber-600 via-orange-500 to-amber-500 bg-clip-text text-transparent uppercase leading-none pb-2">
           AI Personal Shopper
         </h1>
         <p className="text-slate-500 max-w-xl mx-auto text-xs md:text-sm font-medium">
@@ -88,11 +93,11 @@ export default function ConsumerView() {
       </div>
 
       {/* Query input card */}
-      <div className="max-w-3xl mx-auto border border-brand-border rounded-3xl p-6 md:p-8 bg-white">
+      <div className="max-w-3xl mx-auto border border-amber-500/10 rounded-3xl p-6 md:p-8 bg-white/80 backdrop-blur-md shadow-[0_8px_30px_rgba(217,119,6,0.03)]">
         <form onSubmit={handleSearchSubmit} className="space-y-6">
           
           <div className="space-y-2 text-left">
-            <label className="text-xs font-bold tracking-widest text-brand-text uppercase">
+            <label className="text-xs font-bold tracking-widest text-[#1f2937] uppercase">
               What are you looking for?
             </label>
             <div className="relative flex items-center">
@@ -101,11 +106,11 @@ export default function ConsumerView() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Describe your search query..."
-                className="w-full pl-5 pr-14 py-4 bg-white border border-brand-border-dark focus:border-brand-border-dark focus:ring-1 focus:ring-brand-border-dark rounded-xl text-brand-text placeholder-slate-400 focus:outline-none transition-all duration-300 text-sm md:text-base font-medium"
+                className="w-full pl-5 pr-14 py-4 bg-white border border-amber-500/15 focus:border-amber-500 focus:ring-1 focus:ring-amber-500 rounded-xl text-[#1f2937] placeholder-slate-400 focus:outline-none transition-all duration-300 text-sm md:text-base font-medium"
               />
               <button
                 type="submit"
-                className="absolute right-3 p-2.5 rounded-lg bg-brand-block-bg hover:bg-slate-800 text-white transition-all hover:scale-105"
+                className="absolute right-3 p-2.5 rounded-lg bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white transition-all hover:scale-105 shadow-[0_4px_12px_rgba(217,119,6,0.2)]"
               >
                 <Search className="w-4 h-4" />
               </button>
@@ -121,7 +126,7 @@ export default function ConsumerView() {
                   key={idx}
                   type="button"
                   onClick={() => setQuery(chip.text)}
-                  className="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-brand-border hover:border-brand-border-dark bg-white hover:bg-slate-50 text-slate-700 hover:text-brand-text transition-all cursor-pointer"
+                  className="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-amber-500/15 hover:border-amber-500/50 bg-white hover:bg-amber-50/50 text-slate-700 hover:text-amber-800 transition-all cursor-pointer"
                 >
                   {chip.label}
                 </button>
@@ -135,9 +140,9 @@ export default function ConsumerView() {
       {/* Horizontal Loading Progress State */}
       {loading && (
         <div className="max-w-md mx-auto space-y-3 py-12 text-center">
-          <div className="w-full h-2 bg-slate-100 rounded-full overflow-hidden">
+          <div className="w-full h-2 bg-slate-200/50 rounded-full overflow-hidden">
             {/* Animates over 1.8 seconds using progress keyframe */}
-            <div className="h-full bg-brand-block-bg animate-progress rounded-full" />
+            <div className="h-full bg-gradient-to-r from-amber-400 via-orange-400 to-amber-600 animate-progress rounded-full" />
           </div>
           <p className="text-xs font-bold text-slate-500 uppercase tracking-widest animate-pulse">
             {loadingStatus}
@@ -148,12 +153,12 @@ export default function ConsumerView() {
       {/* INITIAL / NO-SEARCH VIEW: Popular Nearby Row */}
       {!loading && !results && (
         <div className="space-y-6 text-left">
-          <div className="flex items-center gap-2 border-b border-brand-border pb-3">
-            <Compass className="w-5 h-5 text-brand-text" />
-            <h2 className="text-lg font-extrabold uppercase tracking-tight text-brand-text">
+          <div className="flex items-center gap-2 border-b border-amber-500/15 pb-3">
+            <Compass className="w-5 h-5 text-amber-500" />
+            <h2 className="text-lg font-extrabold uppercase tracking-tight text-[#1f2937]">
               Popular Nearby You
             </h2>
-            <span className="text-[10px] bg-slate-100 text-slate-600 px-2 py-0.5 rounded-md font-semibold tracking-wide uppercase">
+            <span className="text-[10px] bg-amber-500/10 text-amber-700 border border-amber-500/20 px-2 py-0.5 rounded-md font-semibold tracking-wide uppercase">
               Immediate Pickup
             </span>
           </div>
@@ -173,38 +178,51 @@ export default function ConsumerView() {
               ))}
             </div>
           ) : (
-            <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-5">
               {nearbyProducts.map((prod) => (
                 <div 
                   key={prod.id} 
-                  className="border border-brand-border rounded-2xl p-4 space-y-3 flex flex-col justify-between hover:border-brand-border-dark transition-all duration-300 group bg-white"
+                  className="light-panel light-panel-hover rounded-2xl p-4 flex flex-col justify-between group transition-all duration-300"
                 >
-                  <div className="space-y-2">
+                  <div className="space-y-3">
                     {/* Stark monochrome placeholder box / image */}
-                    <div className="w-full aspect-square bg-[#fafafa] border border-brand-border rounded-xl flex items-center justify-center relative overflow-hidden group-hover:bg-[#f1f1f1] transition-all">
-                      {prod.image_url ? (
-                        <img src={prod.image_url} alt={prod.name} className="w-full h-full object-cover" />
+                    <div className="w-full aspect-square bg-amber-50/20 border border-amber-500/10 rounded-xl flex items-center justify-center relative overflow-hidden transition-all duration-300">
+                      {prod.image_url && !failedImages[prod.id] ? (
+                        <img 
+                          src={prod.image_url} 
+                          alt={prod.name} 
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                          onError={() => handleImageError(prod.id)}
+                        />
                       ) : (
-                        <ShoppingBag className="w-8 h-8 text-slate-300" />
+                        <ShoppingBag className="w-8 h-8 text-amber-600/40 group-hover:scale-110 transition-transform duration-300" />
                       )}
-                      <div className="absolute top-2 right-2 flex items-center gap-1 bg-white/90 border border-brand-border px-1.5 py-0.5 rounded text-[8px] font-bold">
-                        <Star className="w-2.5 h-2.5 fill-current text-brand-text" />
+                      <div className="absolute top-2 right-2 flex items-center gap-1 bg-white border border-amber-500/15 px-1.5 py-0.5 rounded text-[8px] font-bold text-amber-600 shadow-sm">
+                        <Star className="w-2.5 h-2.5 fill-current text-amber-500" />
                         {prod.rating}
                       </div>
                     </div>
                     
-                    <div>
-                      <span className="text-[9px] font-bold text-slate-400 uppercase tracking-wider block">
+                    <div className="space-y-1">
+                      <span className="text-[9px] font-extrabold text-slate-400 uppercase tracking-widest block">
                         {prod.category}
                       </span>
-                      <h3 className="text-xs font-bold text-brand-text line-clamp-1 group-hover:underline">
+                      <h3 className="text-xs font-bold text-[#1f2937] line-clamp-1 group-hover:text-amber-600 transition-colors duration-300">
                         {prod.name}
                       </h3>
+                      {prod.description && (
+                        <p className="text-[10px] text-slate-500 line-clamp-2 leading-relaxed">
+                          {prod.description}
+                        </p>
+                      )}
                     </div>
                   </div>
 
-                  <div className="text-xs font-extrabold text-brand-text pt-1 border-t border-brand-border/40">
-                    {prod.price}
+                  <div className="text-xs font-black text-[#1f2937] pt-2 mt-2 border-t border-amber-500/10 flex items-center justify-between">
+                    <span className="text-amber-600 font-extrabold">{prod.price}</span>
+                    <span className="text-[9px] text-slate-450 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center gap-0.5">
+                      View Detail &rarr;
+                    </span>
                   </div>
                 </div>
               ))}
@@ -218,9 +236,9 @@ export default function ConsumerView() {
         <div className="space-y-8 animate-fade-in text-left">
           
           {/* Extracted Intent Tags */}
-          <div className="flex flex-col items-center gap-3 border-t border-b border-brand-border py-6">
+          <div className="flex flex-col items-center gap-3 border-t border-b border-amber-500/15 py-6">
             <div className="flex items-center gap-1.5 text-xs font-bold text-slate-500 uppercase tracking-widest">
-              <Info className="w-4 h-4 text-brand-text" />
+              <Info className="w-4 h-4 text-amber-500" />
               Extracted Intent Parameters
             </div>
             
@@ -228,7 +246,7 @@ export default function ConsumerView() {
               {Object.entries(results.intent).map(([key, val]) => (
                 <div
                   key={key}
-                  className="px-3.5 py-1.5 rounded-full border border-brand-border-dark bg-white text-xs font-semibold text-brand-text"
+                  className="px-3.5 py-1.5 rounded-full border border-amber-500/20 bg-amber-500/5 text-xs font-semibold text-amber-700 shadow-[0_2px_8px_rgba(217,119,6,0.03)]"
                 >
                   <span className="opacity-50 capitalize mr-1">{key}:</span>
                   <span>{val}</span>
@@ -239,8 +257,8 @@ export default function ConsumerView() {
 
           {/* Dynamic Suggestion Plan Cards */}
           <div className="space-y-5">
-            <h2 className="text-xl font-extrabold uppercase tracking-tight text-brand-text flex items-center gap-2">
-              <Gift className="w-5 h-5" />
+            <h2 className="text-xl font-extrabold uppercase tracking-tight text-[#1f2937] flex items-center gap-2">
+              <Gift className="w-5 h-5 text-amber-500" />
               Recommended Purchasing Plan
             </h2>
             
@@ -248,38 +266,47 @@ export default function ConsumerView() {
               {results.shoppingPlan.map((product) => (
                 <div
                   key={product.id}
-                  className="border border-brand-border hover:border-brand-border-dark rounded-2xl p-5 flex flex-col justify-between bg-white transition-all duration-300 group"
+                  className="border border-amber-500/10 hover:border-amber-500/35 rounded-2xl p-5 flex flex-col justify-between bg-white/70 backdrop-blur-md transition-all duration-300 group shadow-sm hover:shadow-[0_8px_30px_rgba(217,119,6,0.08)] hover:-translate-y-1"
                 >
                   <div className="space-y-4">
-                    {/* Monochrome placeholder block */}
-                    <div className="w-full aspect-video bg-[#0a0a0a] rounded-xl flex items-center justify-center relative overflow-hidden">
-                      <ShoppingBag className="w-10 h-10 text-white opacity-40 group-hover:scale-110 transition-transform" />
-                      <div className="absolute top-2 right-2 flex items-center gap-1 bg-white border border-brand-border-dark px-2 py-0.5 rounded-md text-[9px] text-brand-text font-bold">
-                        <Star className="w-3.5 h-3.5 fill-current" />
+                    {/* Image block */}
+                    <div className="w-full aspect-video bg-amber-50/20 border border-amber-500/10 rounded-xl flex items-center justify-center relative overflow-hidden">
+                      {product.image_url && !failedImages[product.id] ? (
+                        <img 
+                          src={product.image_url} 
+                          alt={product.name} 
+                          className="w-full h-full object-cover" 
+                          onError={() => handleImageError(product.id)}
+                        />
+                      ) : (
+                        <ShoppingBag className="w-10 h-10 text-amber-600/40 group-hover:scale-110 transition-transform" />
+                      )}
+                      <div className="absolute top-2 right-2 flex items-center gap-1 bg-white border border-amber-500/15 px-2 py-0.5 rounded-md text-[9px] text-amber-600 font-bold shadow-sm">
+                        <Star className="w-3.5 h-3.5 fill-current text-amber-500" />
                         {product.rating}
                       </div>
                     </div>
 
                     {/* Metadata & Title */}
                     <div className="space-y-1">
-                      <h3 className="font-extrabold text-brand-text group-hover:underline text-sm md:text-base line-clamp-1">
+                      <h3 className="font-extrabold text-[#1f2937] group-hover:text-amber-600 transition-colors text-sm md:text-base line-clamp-1">
                         {product.name}
                       </h3>
-                      <div className="text-base font-black text-brand-text">
+                      <div className="text-base font-black text-amber-600">
                         {product.price}
                       </div>
                     </div>
 
                     {/* Reason block */}
-                    <div className="pt-3 border-t border-brand-border">
-                      <p className="text-xs text-slate-500 italic pl-3 border-l-2 border-brand-border-dark">
+                    <div className="pt-3 border-t border-amber-500/10">
+                      <p className="text-xs text-slate-500 italic pl-3 border-l-2 border-amber-500">
                         "{product.whyWePickedThis}"
                       </p>
                     </div>
                   </div>
 
-                  {/* Monochrome customize action button */}
-                  <button className="mt-5 w-full py-2.5 rounded-lg border border-brand-border-dark bg-white hover:bg-brand-block-bg text-brand-text hover:text-white text-xs font-bold transition-all duration-300">
+                  {/* Action button */}
+                  <button className="mt-5 w-full py-2.5 rounded-lg border border-amber-500/20 bg-amber-500/5 hover:bg-gradient-to-r hover:from-amber-500 hover:to-orange-500 text-amber-700 hover:text-white text-xs font-black transition-all duration-300 shadow-sm">
                     Select & Configure
                   </button>
                 </div>

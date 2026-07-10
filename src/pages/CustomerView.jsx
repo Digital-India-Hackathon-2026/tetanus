@@ -7,6 +7,11 @@ export default function CustomerView() {
   const [query, setQuery] = useState(defaultQuery);
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState(null);
+  const [failedImages, setFailedImages] = useState({});
+
+  const handleImageError = (id) => {
+    setFailedImages(prev => ({ ...prev, [id]: true }));
+  };
 
   const quickSelectChips = [
     { label: "🦕 Dinosaur Gift (₹1500)", text: "Birthday gift for a 10-year-old who loves dinosaurs, budget ₹1500" },
@@ -171,8 +176,19 @@ export default function CustomerView() {
                 >
                   <div className="space-y-4">
                     {/* Visual Placeholder */}
-                    <div className={`w-full aspect-video rounded-xl bg-gradient-to-br ${product.imageColor} flex items-center justify-center relative overflow-hidden group-hover:scale-[1.02] transition-transform duration-300`}>
-                      <Gift className="w-10 h-10 text-slate-400 opacity-60 absolute group-hover:rotate-6 group-hover:scale-110 transition-all duration-300" />
+                    <div className="w-full aspect-video rounded-xl bg-slate-800 flex items-center justify-center relative overflow-hidden group-hover:scale-[1.02] transition-transform duration-300">
+                      {product.image_url && !failedImages[product.id] ? (
+                        <img 
+                          src={product.image_url} 
+                          alt={product.name} 
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                          onError={() => handleImageError(product.id)}
+                        />
+                      ) : (
+                        <div className={`w-full h-full bg-gradient-to-br ${product.imageColor} flex items-center justify-center`}>
+                          <Gift className="w-10 h-10 text-slate-400 opacity-60 absolute group-hover:rotate-6 group-hover:scale-110 transition-all duration-300" />
+                        </div>
+                      )}
                       <div className="absolute top-2 right-2 flex items-center gap-1 bg-brand-dark-bg/85 px-2 py-0.5 rounded-md text-[10px] text-brand-indigo font-bold border border-brand-indigo/20">
                         <Star className="w-3.5 h-3.5 fill-current" />
                         {product.rating}
