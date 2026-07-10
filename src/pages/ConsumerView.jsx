@@ -24,6 +24,10 @@ export default function ConsumerView() {
     { id: "ny-5", name: "Aluminum Desk Phone Dock", price: "₹899", rating: 4.6, category: "Accessories" }
   ];
 
+  // Dynamic nearby products loading states
+  const [nearbyProducts, setNearbyProducts] = useState([]);
+  const [nearbyLoading, setNearbyLoading] = useState(true);
+
   const handleSearchSubmit = async (e) => {
     if (e) e.preventDefault();
     if (!query.trim()) return;
@@ -50,6 +54,24 @@ export default function ConsumerView() {
 
   useEffect(() => {
     setQuery(defaultQuery);
+
+    // Fetch dynamic nearby items from the FastAPI DB catalog
+    const fetchNearbyProducts = async () => {
+      try {
+        const response = await fetch("http://localhost:8000/api/products/nearby");
+        if (!response.ok) throw new Error("Failed to load products from endpoint");
+        const data = await response.json();
+        setNearbyProducts(data.products || []);
+        console.log(`[CommerceOS] Discovered product source: ${data.source}`);
+      } catch (err) {
+        console.warn("[CommerceOS] DB endpoint down, rendering local mock fallback:", err);
+        setNearbyProducts(nearYouProducts);
+      } finally {
+        setNearbyLoading(false);
+      }
+    };
+
+    fetchNearbyProducts();
   }, []);
 
   return (
@@ -136,38 +158,58 @@ export default function ConsumerView() {
             </span>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-            {nearYouProducts.map((prod) => (
-              <div 
-                key={prod.id} 
-                className="border border-brand-border rounded-2xl p-4 space-y-3 flex flex-col justify-between hover:border-brand-border-dark transition-all duration-300 group"
-              >
-                <div className="space-y-2">
-                  {/* Stark monochrome placeholder box */}
-                  <div className="w-full aspect-square bg-[#fafafa] border border-brand-border rounded-xl flex items-center justify-center relative overflow-hidden group-hover:bg-[#f1f1f1] transition-all">
-                    <ShoppingBag className="w-8 h-8 text-slate-300" />
-                    <div className="absolute top-2 right-2 flex items-center gap-1 bg-white/90 border border-brand-border px-1.5 py-0.5 rounded text-[8px] font-bold">
-                      <Star className="w-2.5 h-2.5 fill-current text-brand-text" />
-                      {prod.rating}
+          {nearbyLoading ? (
+            /* Black-bordered skeleton cards while request is in flight */
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+              {[1, 2, 3, 4, 5].map((n) => (
+                <div key={n} className="border border-brand-border rounded-2xl p-4 space-y-3 flex flex-col justify-between bg-white shimmer">
+                  <div className="space-y-2 animate-pulse">
+                    <div className="w-full aspect-square bg-slate-100 rounded-xl shimmer" />
+                    <div className="h-3 w-10 bg-slate-200 rounded shimmer" />
+                    <div className="h-4 w-5/6 bg-slate-200 rounded shimmer" />
+                  </div>
+                  <div className="h-4 w-1/3 bg-slate-200 rounded shimmer mt-1" />
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+              {nearbyProducts.map((prod) => (
+                <div 
+                  key={prod.id} 
+                  className="border border-brand-border rounded-2xl p-4 space-y-3 flex flex-col justify-between hover:border-brand-border-dark transition-all duration-300 group bg-white"
+                >
+                  <div className="space-y-2">
+                    {/* Stark monochrome placeholder box / image */}
+                    <div className="w-full aspect-square bg-[#fafafa] border border-brand-border rounded-xl flex items-center justify-center relative overflow-hidden group-hover:bg-[#f1f1f1] transition-all">
+                      {prod.image_url ? (
+                        <img src={prod.image_url} alt={prod.name} className="w-full h-full object-cover" />
+                      ) : (
+                        <ShoppingBag className="w-8 h-8 text-slate-300" />
+                      )}
+                      <div className="absolute top-2 right-2 flex items-center gap-1 bg-white/90 border border-brand-border px-1.5 py-0.5 rounded text-[8px] font-bold">
+                        <Star className="w-2.5 h-2.5 fill-current text-brand-text" />
+                        {prod.rating}
+                      </div>
+                    </div>
+                    
+                    <div>
+                      <span className="text-[9px] font-bold text-slate-400 uppercase tracking-wider block">
+                        {prod.category}
+                      </span>
+                      <h3 className="text-xs font-bold text-brand-text line-clamp-1 group-hover:underline">
+                        {prod.name}
+                      </h3>
                     </div>
                   </div>
-                  
-                  <div>
-                    <span className="text-[9px] font-bold text-slate-400 uppercase tracking-wider block">
-                      {prod.category}
-                    </span>
-                    <h3 className="text-xs font-bold text-brand-text line-clamp-1 group-hover:underline">
-                      {prod.name}
-                    </h3>
+
+                  <div className="text-xs font-extrabold text-brand-text pt-1 border-t border-brand-border/40">
+                    {prod.price}
                   </div>
                 </div>
-
-                <div className="text-xs font-extrabold text-brand-text pt-1 border-t border-brand-border/40">
-                  {prod.price}
-                </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
       )}
 
