@@ -1,8 +1,7 @@
-// API Service for CommerceOS
-// Toggle between mock frontend mode and real FastAPI backend
+import { mapBackendResponseToFrontend } from './mapper';
 
-const USE_MOCK_API = true; // Set to false to connect to FastAPI backend
-const API_BASE_URL = 'http://localhost:8000';
+const USE_MOCK_API = false; // Set to false to connect to FastAPI backend
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 // Initialize localStorage values for simulation if not set
 if (!localStorage.getItem('cos_dino_searches')) {
@@ -21,13 +20,14 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 export const postIntent = async (query) => {
   if (!USE_MOCK_API) {
     try {
-      const response = await fetch(`${API_BASE_URL}/api/intent`, {
+      const response = await fetch(`${API_BASE_URL}/mission`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query }),
+        body: JSON.stringify({ mission: query }),
       });
-      if (!response.ok) throw new Error('Backend error');
-      return await response.json();
+      if (!response.ok) throw new Error(`Backend error: ${response.status}`);
+      const rawData = await response.json();
+      return mapBackendResponseToFrontend(rawData);
     } catch (error) {
       console.error('API Error, falling back to mock:', error);
       // Fallback if backend is down

@@ -1,224 +1,209 @@
 import React, { useState, useEffect } from 'react';
-import { Bell, AlertTriangle, CheckCircle, TrendingUp, ShoppingBag } from 'lucide-react';
 import { getIntelligenceLoop } from '../services/api';
+import { motion } from 'framer-motion';
+import { AreaChart, Area, XAxis, YAxis, Tooltip, ResponsiveContainer, BarChart, Bar } from 'recharts';
+import { ArrowUpRight, ArrowDownRight, Package, AlertCircle } from 'lucide-react';
 
-// Sub-components
-import IntelligenceLoop from '../components/IntelligenceLoop';
-import MoneyLeftCard from '../components/MoneyLeftCard';
-import SignalFeed from '../components/SignalFeed';
-import SalesTrendChart from '../components/SalesTrendChart';
-import TopProductsChart from '../components/TopProductsChart';
-import DemandHeatStrip from '../components/DemandHeatStrip';
-import ReorderSimulator from '../components/ReorderSimulator';
-import AgentActivityLog from '../components/AgentActivityLog';
-import ProfitComparisonCard from '../components/ProfitComparisonCard';
-import CategoryBreakdownChart from '../components/CategoryBreakdownChart';
-import FloatingCopilot from '../components/FloatingCopilot';
+// Fake Data for Minimal Charts
+const salesData = [
+  { name: 'Mon', value: 4000 },
+  { name: 'Tue', value: 3000 },
+  { name: 'Wed', value: 5000 },
+  { name: 'Thu', value: 2780 },
+  { name: 'Fri', value: 8900 },
+  { name: 'Sat', value: 12000 },
+  { name: 'Sun', value: 14000 },
+];
+
+const demandData = [
+  { name: 'Toys', value: 85 },
+  { name: 'Tech', value: 65 },
+  { name: 'Home', value: 45 },
+  { name: 'Apparel', value: 30 },
+];
 
 export default function SellerView() {
   const [stats, setStats] = useState({
-    todaySales: "₹23,800",
-    salesChange: "▲ 7.2%",
-    activeOrders: 38,
-    lowStockCount: 1,
-    puzzleStock: 5,
-    dinoSearches: 8
+    todaySales: "₹0",
+    salesChange: "0%",
+    activeOrders: 0,
+    puzzleStock: 0,
+    dinoSearches: 0
   });
 
-  const [refreshKey, setRefreshKey] = useState(0);
-
-  // Staged loading animation states
-  const [showCharts, setShowCharts] = useState(false);
-  const [showTerminal, setShowTerminal] = useState(false);
-
-  const fetchDashboardStats = async () => {
-    try {
-      const loopData = await getIntelligenceLoop();
-      const stockVal = parseInt(loopData.stockLeft, 10);
-      const searchVal = parseInt(loopData.searchesCount, 10);
-      
-      setStats({
-        todaySales: stockVal >= 30 ? "₹28,500" : "₹23,800",
-        salesChange: stockVal >= 30 ? "▲ 9.8%" : "▲ 7.2%",
-        activeOrders: stockVal >= 30 ? 39 : 38,
-        lowStockCount: stockVal <= 5 ? 1 : 0,
-        puzzleStock: stockVal,
-        dinoSearches: searchVal
-      });
-    } catch (e) {
-      console.error(e);
-    }
-  };
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetchDashboardStats();
-  }, [refreshKey]);
-
-  useEffect(() => {
-    // Stage 2: Fade in charts and simulators at 2.0s
-    const chartsTimer = setTimeout(() => {
-      setShowCharts(true);
-    }, 2000);
-
-    // Stage 3: Trigger typewriter Terminal Log at 3.5s
-    const terminalTimer = setTimeout(() => {
-      setShowTerminal(true);
-    }, 3500);
-
-    return () => {
-      clearTimeout(chartsTimer);
-      clearTimeout(terminalTimer);
+    const fetchDashboardStats = async () => {
+      try {
+        const loopData = await getIntelligenceLoop();
+        const stockVal = parseInt(loopData.stockLeft, 10);
+        const searchVal = parseInt(loopData.searchesCount, 10);
+        
+        setStats({
+          todaySales: stockVal >= 30 ? "₹28,500" : "₹23,800",
+          salesChange: stockVal >= 30 ? "+9.8%" : "+7.2%",
+          activeOrders: stockVal >= 30 ? 39 : 38,
+          puzzleStock: stockVal,
+          dinoSearches: searchVal
+        });
+      } catch (e) {
+        console.error(e);
+      } finally {
+        setLoading(false);
+      }
     };
+    fetchDashboardStats();
   }, []);
 
-  const handleStateChange = () => {
-    setRefreshKey(prev => prev + 1);
-  };
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-[#F8F7F5] flex items-center justify-center">
+        <div className="w-6 h-6 rounded-full border-2 border-black/20 border-t-black animate-spin" />
+      </div>
+    );
+  }
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8 space-y-8 bg-transparent text-white select-none">
+    <div className="min-h-screen bg-[#F8F7F5] text-[#171717] pb-32">
       
-      {/* 1. Intelligence Loop Header */}
-      <IntelligenceLoop onStateChange={handleStateChange} />
-
-      {/* 2. Primary Metrics Row */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        
-        {/* Metric 1 */}
-        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
-          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Today's Sales</div>
-          <div className="flex items-baseline justify-between">
-            <span className="text-2xl font-black text-white">{stats.todaySales}</span>
-            <span className="text-xs font-bold text-emerald-400">{stats.salesChange}</span>
-          </div>
+      {/* HEADER */}
+      <header className="pt-24 pb-12 px-6">
+        <div className="max-w-[1000px] mx-auto">
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+          >
+            <h1 className="text-4xl tracking-tight font-medium">Overview</h1>
+            <p className="text-[#6F6F73] mt-2">Real-time network intelligence</p>
+          </motion.div>
         </div>
+      </header>
 
-        {/* Metric 2 */}
-        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
-          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Active Orders</div>
-          <div className="flex items-baseline justify-between">
-            <span className="text-2xl font-black text-white">{stats.activeOrders}</span>
-            <span className="text-xs font-semibold text-zinc-400">▲ 2 today</span>
-          </div>
-        </div>
-
-        {/* Metric 3 */}
-        <div className="border border-white/5 hover:border-violet-500/40 rounded-2xl p-5 bg-zinc-900/40 backdrop-blur-md text-left space-y-1 hover:shadow-lg transition-all duration-300 hover:-translate-y-0.5">
-          <div className="text-[10px] text-zinc-400 font-bold uppercase tracking-wider">Low Stock Alerts</div>
-          <div className="flex items-baseline justify-between">
-            <span className={`text-2xl font-black ${stats.puzzleStock <= 5 ? 'text-red-400 font-extrabold' : 'text-white'}`}>
-              {stats.lowStockCount}
-            </span>
-            <span className="text-xs font-bold text-zinc-400">
-              {stats.puzzleStock <= 5 ? "▼ needs action" : "▲ stable"}
-            </span>
-          </div>
-        </div>
-
-      </div>
-
-      {/* 3. Core "AI-in-Action" Grid */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-        
-        {/* Left Column (5 columns width): Signal Feed & Alerts */}
-        <div className="lg:col-span-5 space-y-6">
+      {/* METRICS ROW */}
+      <section className="px-6 mb-12">
+        <div className="max-w-[1000px] mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
           
-          {/* Signal Feed (Reasoning steps staggered on mount) */}
-          <SignalFeed searchesCount={stats.dinoSearches} stockLeft={stats.puzzleStock} />
-
-          {/* Live Alerts Panel (Monochrome layouts, warm red ONLY for stock warnings) */}
-          <div className="border border-white/5 rounded-2xl p-5 space-y-4 bg-zinc-900/40 backdrop-blur-md">
-            <div className="flex items-center justify-between border-b border-white/5 pb-3">
-              <h3 className="text-xs font-bold text-zinc-300 tracking-widest uppercase flex items-center gap-1.5 leading-none">
-                <Bell className="w-4 h-4 text-violet-400" />
-                Live Alerts
-              </h3>
-              <span className="flex h-2 w-2 relative">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-violet-500 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2 w-2 bg-violet-500"></span>
-              </span>
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.1 }}
+            className="bg-white rounded-3xl p-8 border border-black/5 shadow-sm flex flex-col justify-between"
+          >
+            <div className="text-sm font-medium text-[#6F6F73] mb-4 uppercase tracking-widest">Gross Volume</div>
+            <div className="text-5xl font-medium tracking-tighter">{stats.todaySales}</div>
+            <div className="mt-4 flex items-center gap-1 text-sm font-medium text-emerald-600 bg-emerald-50 w-fit px-2 py-1 rounded-md">
+              <ArrowUpRight className="w-4 h-4" />
+              {stats.salesChange} today
             </div>
-            
-            <div className="space-y-3">
-              {/* Critical Alert with reserved Warm Red */}
+          </motion.div>
+
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2 }}
+            className="bg-white rounded-3xl p-8 border border-black/5 shadow-sm flex flex-col justify-between"
+          >
+            <div className="text-sm font-medium text-[#6F6F73] mb-4 uppercase tracking-widest">Active Orders</div>
+            <div className="text-5xl font-medium tracking-tighter">{stats.activeOrders}</div>
+            <div className="mt-4 flex items-center gap-1 text-sm font-medium text-[#6F6F73]">
+              Fulfillment running
+            </div>
+          </motion.div>
+
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+            className={`rounded-3xl p-8 border shadow-sm flex flex-col justify-between ${
+              stats.puzzleStock <= 5 ? 'bg-red-50 border-red-100' : 'bg-white border-black/5'
+            }`}
+          >
+            <div className={`text-sm font-medium mb-4 uppercase tracking-widest ${stats.puzzleStock <= 5 ? 'text-red-600' : 'text-[#6F6F73]'}`}>
+              Inventory Alert
+            </div>
+            <div className={`text-5xl font-medium tracking-tighter ${stats.puzzleStock <= 5 ? 'text-red-700' : '#171717'}`}>
+              {stats.puzzleStock} <span className="text-2xl text-opacity-50 font-light tracking-normal">units</span>
+            </div>
+            <div className={`mt-4 flex items-center gap-2 text-sm font-medium ${stats.puzzleStock <= 5 ? 'text-red-600' : 'text-[#6F6F73]'}`}>
               {stats.puzzleStock <= 5 ? (
-                <div className="flex gap-3 bg-red-950/20 border border-red-500/30 rounded-xl p-3.5 text-xs text-red-300 shadow-[0_0_15px_rgba(239,68,68,0.15)]">
-                  <AlertTriangle className="w-5 h-5 text-red-555 flex-shrink-0" />
-                  <div className="text-left leading-normal">
-                    <span className="font-extrabold block mb-0.5 uppercase tracking-wide">Stockout Risk Critical</span>
-                    Dinosaur Puzzle Set inventory is down to {stats.puzzleStock} units. Spiked demand has outrun available warehouse stocks.
-                  </div>
-                </div>
+                <>
+                  <AlertCircle className="w-4 h-4" />
+                  Dinosaur Puzzle Set requires restocking.
+                </>
               ) : (
-                <div className="flex gap-3 bg-emerald-950/10 border border-emerald-500/20 rounded-xl p-3.5 text-xs text-emerald-300 shadow-[0_0_15px_rgba(16,185,129,0.08)]">
-                  <CheckCircle className="w-5 h-5 text-emerald-450 flex-shrink-0" />
-                  <div className="text-left leading-normal">
-                    <span className="font-extrabold text-white block mb-0.5 uppercase tracking-wide">Alert Resolved</span>
-                    Dinosaur Puzzle Set reordered. Stock replenishing to safety limits.
-                  </div>
-                </div>
+                <>
+                  <Package className="w-4 h-4" />
+                  Stock levels nominal.
+                </>
               )}
-
-              {/* Spikes / Other Alerts - Strictly Monochrome */}
-              {stats.dinoSearches > 0 && (
-                <div className="flex gap-3 bg-indigo-950/15 border border-indigo-500/20 rounded-xl p-3.5 text-xs text-indigo-300 shadow-[0_0_15px_rgba(99,102,241,0.08)]">
-                  <TrendingUp className="w-5 h-5 text-indigo-400 flex-shrink-0" />
-                  <div className="text-left leading-normal">
-                    <span className="font-extrabold text-white block mb-0.5 uppercase tracking-wide text-left">Traffic Spike</span>
-                    Search counts for 'dinosaur gifts' saw a 300% volume increase today.
-                  </div>
-                </div>
-              )}
-
-              <div className="flex gap-3 bg-zinc-900/60 border border-white/5 rounded-xl p-3.5 text-xs text-zinc-400">
-                <ShoppingBag className="w-5 h-5 text-zinc-400 flex-shrink-0" />
-                <div className="text-left leading-normal">
-                  <span className="font-bold text-zinc-300 block mb-0.5 uppercase tracking-wide">Sync Status</span>
-                  External integrations and listings are in sync.
-                </div>
-              </div>
             </div>
-          </div>
+          </motion.div>
 
         </div>
+      </section>
 
-        {/* Right Column (7 columns width): Hero Loss Card & Simulator */}
-        <div className="lg:col-span-7 space-y-6">
+      {/* CHARTS ROW */}
+      <section className="px-6">
+        <div className="max-w-[1000px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           
-          {/* Hero Money Left Card */}
-          <MoneyLeftCard dinoSearches={stats.dinoSearches} />
+          {/* Main Chart */}
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.4 }}
+            className="bg-white rounded-3xl p-8 border border-black/5 shadow-sm"
+          >
+            <div className="flex justify-between items-center mb-8">
+              <h2 className="text-sm font-semibold uppercase tracking-widest text-[#171717]">Volume Trajectory</h2>
+            </div>
+            <div className="h-[250px] w-full">
+              <ResponsiveContainer width="100%" height="100%">
+                <AreaChart data={salesData} margin={{ top: 0, right: 0, left: 0, bottom: 0 }}>
+                  <defs>
+                    <linearGradient id="colorValue" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="5%" stopColor="#171717" stopOpacity={0.1}/>
+                      <stop offset="95%" stopColor="#171717" stopOpacity={0}/>
+                    </linearGradient>
+                  </defs>
+                  <Tooltip 
+                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 20px rgba(0,0,0,0.08)' }}
+                    itemStyle={{ color: '#171717', fontWeight: 600 }}
+                    cursor={{ stroke: '#171717', strokeWidth: 1, strokeDasharray: '4 4' }}
+                  />
+                  <Area type="monotone" dataKey="value" stroke="#171717" strokeWidth={2} fillOpacity={1} fill="url(#colorValue)" />
+                </AreaChart>
+              </ResponsiveContainer>
+            </div>
+          </motion.div>
 
-          {/* Reorder Simulator */}
-          <ReorderSimulator 
-            isVisible={showCharts} 
-            puzzleStock={stats.puzzleStock} 
-            onStateChange={handleStateChange} 
-          />
+          {/* Secondary Chart */}
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.5 }}
+            className="bg-white rounded-3xl p-8 border border-black/5 shadow-sm"
+          >
+            <div className="flex justify-between items-center mb-8">
+              <h2 className="text-sm font-semibold uppercase tracking-widest text-[#171717]">Intent Demand</h2>
+            </div>
+            <div className="h-[250px] w-full">
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={demandData} margin={{ top: 0, right: 0, left: -20, bottom: 0 }}>
+                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fill: '#6F6F73', fontSize: 12 }} />
+                  <YAxis axisLine={false} tickLine={false} tick={{ fill: '#6F6F73', fontSize: 12 }} />
+                  <Tooltip 
+                    cursor={{ fill: 'transparent' }} 
+                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 20px rgba(0,0,0,0.08)' }} 
+                  />
+                  <Bar dataKey="value" fill="#8B5CF6" radius={[4, 4, 0, 0]} barSize={32} />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </motion.div>
 
         </div>
-
-      </div>
-
-      {/* 4. Chart Row (Two Columns, fades in at 2s) */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <SalesTrendChart isVisible={showCharts} />
-        <TopProductsChart isVisible={showCharts} puzzleStock={stats.puzzleStock} />
-      </div>
-
-      {/* 5. Demand Heat Strip (Full Width, fades in at 2s) */}
-      <DemandHeatStrip isVisible={showCharts} />
-
-      {/* 6. Agent Activity Log (Bottom Terminal log, types out character-by-character starting at 3.5s) */}
-      <AgentActivityLog isVisible={showTerminal} />
-
-      {/* 7. Secondary cards (Profit vs last period, category share progress bars) */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <ProfitComparisonCard isVisible={showCharts} />
-        <CategoryBreakdownChart isVisible={showCharts} />
-      </div>
-
-      {/* 8. Collapsible Floating AI Assistant Button (Collapses to right drawer overlay) */}
-      <FloatingCopilot />
+      </section>
 
     </div>
   );
