@@ -1,0 +1,8 @@
+Mission A,Mission B,Relationship,Relationship Score,Reason
+Hostel Setup,Dorm Cooking Essentials,Prerequisite,8.5,Setting up a hostel room naturally leads to needing quick cooking utensils and food items.
+Office/Study Desk Setup,Freelancer Remote Setup,Specialization,9.0,Freelancer setup represents a highly specialized study desk configuration.
+Weekly Grocery,Quick Breakfast,Complementary,7.8,Quick breakfast items complement weekly dry ration grocery purchases.
+Weekly Grocery,Evening Tea/Coffee Break,Complementary,8.0,Tea and coffee break snacks complement main weekly groceries.
+Gym Starter,Summer Hydration Kit,Complementary,8.2,Hydration products are critical for athletic and workout routines.
+Baby Care Essentials,Newborn Baby Care,Generalization,9.2,General baby care encompasses specific newborn sensitive needs.
+Oral Care Deep Clean,Home Cleaning & Sanitation,Complementary,7.5,Personal sanitation products complement home hygiene purchases.

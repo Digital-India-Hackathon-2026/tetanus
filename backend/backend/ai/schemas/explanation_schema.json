@@ -1,0 +1,76 @@
+{
+    "$defs": {
+        "Mission": {
+            "enum": [
+                "Birthday",
+                "Gym",
+                "Hostel Setup",
+                "Movie Night",
+                "Travel Essentials",
+                "Weekly Prep",
+                "Work From Home"
+            ],
+            "title": "Mission",
+            "type": "string"
+        }
+    },
+    "description": "Master schema for the Explanation Agent output.",
+    "properties": {
+        "mission": {
+            "$ref": "#/$defs/Mission",
+            "description": "The mission context for the explanation"
+        },
+        "recommended_products": {
+            "description": "List of recommended product names",
+            "items": {
+                "type": "string"
+            },
+            "title": "Recommended Products",
+            "type": "array"
+        },
+        "recommendation_reasons": {
+            "additionalProperties": {
+                "type": "string"
+            },
+            "description": "Dictionary mapping product names to explanation strings",
+            "title": "Recommendation Reasons",
+            "type": "object"
+        },
+        "bundles": {
+            "description": "List of recommended bundle names",
+            "items": {
+                "type": "string"
+            },
+            "title": "Bundles",
+            "type": "array"
+        },
+        "budget_summary": {
+            "description": "Explanation of how the recommendations fit the budget",
+            "title": "Budget Summary",
+            "type": "string"
+        },
+        "inventory_summary": {
+            "description": "Summary of inventory status for the recommendations",
+            "title": "Inventory Summary",
+            "type": "string"
+        },
+        "alternative_products": {
+            "description": "List of alternative product names",
+            "items": {
+                "type": "string"
+            },
+            "title": "Alternative Products",
+            "type": "array"
+        }
+    },
+    "required": [
+        "mission",
+        "recommended_products",
+        "recommendation_reasons",
+        "budget_summary",
+        "inventory_summary"
+    ],
+    "title": "ExplanationResponse",
+    "type": "object",
+    "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

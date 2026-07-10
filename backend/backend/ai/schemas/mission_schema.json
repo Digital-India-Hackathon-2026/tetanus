@@ -1,0 +1,327 @@
+{
+    "$defs": {
+        "Budget": {
+            "description": "Schema defining user budget parameters.",
+            "properties": {
+                "amount": {
+                    "anyOf": [
+                        {
+                            "type": "number"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": null,
+                    "description": "Exact budget amount if specified",
+                    "title": "Amount"
+                },
+                "currency": {
+                    "$ref": "#/$defs/Currency",
+                    "default": "INR",
+                    "description": "Currency of the budget"
+                },
+                "minimum": {
+                    "anyOf": [
+                        {
+                            "type": "number"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": null,
+                    "description": "Minimum acceptable price",
+                    "title": "Minimum"
+                },
+                "maximum": {
+                    "anyOf": [
+                        {
+                            "type": "number"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": null,
+                    "description": "Maximum acceptable price",
+                    "title": "Maximum"
+                },
+                "estimated": {
+                    "anyOf": [
+                        {
+                            "type": "boolean"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": false,
+                    "description": "Whether the budget is an AI estimation",
+                    "title": "Estimated"
+                },
+                "confidence": {
+                    "description": "Confidence in the budget extraction",
+                    "maximum": 1.0,
+                    "minimum": 0.0,
+                    "title": "Confidence",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "confidence"
+            ],
+            "title": "Budget",
+            "type": "object"
+        },
+        "Category": {
+            "enum": [
+                "Automotive",
+                "Beauty",
+                "Electronics",
+                "Fashion",
+                "Groceries",
+                "Health",
+                "Home",
+                "Office",
+                "Other",
+                "Sports"
+            ],
+            "title": "Category",
+            "type": "string"
+        },
+        "Constraint": {
+            "description": "Schema defining user constraints and preferences.",
+            "properties": {
+                "preferred_brands": {
+                    "description": "List of specifically requested brands",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "Preferred Brands",
+                    "type": "array"
+                },
+                "excluded_brands": {
+                    "description": "Brands the user does not want",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "Excluded Brands",
+                    "type": "array"
+                },
+                "preferred_categories": {
+                    "description": "Categories the user is interested in",
+                    "items": {
+                        "$ref": "#/$defs/Category"
+                    },
+                    "title": "Preferred Categories",
+                    "type": "array"
+                },
+                "must_have": {
+                    "description": "Features or keywords the items MUST have",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "Must Have",
+                    "type": "array"
+                },
+                "nice_to_have": {
+                    "description": "Features or keywords the user would like",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "Nice To Have",
+                    "type": "array"
+                },
+                "maximum_delivery_days": {
+                    "anyOf": [
+                        {
+                            "type": "integer"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": null,
+                    "description": "Maximum acceptable delivery time in days",
+                    "title": "Maximum Delivery Days"
+                },
+                "preferred_price_range": {
+                    "anyOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+                    "default": null,
+                    "description": "Qualitative price range e.g., 'cheap', 'premium'",
+                    "title": "Preferred Price Range"
+                },
+                "minimum_rating": {
+                    "default": 0.0,
+                    "description": "Minimum acceptable average rating",
+                    "maximum": 5.0,
+                    "minimum": 0.0,
+                    "title": "Minimum Rating",
+                    "type": "number"
+                },
+                "inventory_required": {
+                    "$ref": "#/$defs/InventoryStatus",
+                    "default": "IN_STOCK",
+                    "description": "Required inventory status"
+                }
+            },
+            "title": "Constraint",
+            "type": "object"
+        },
+        "Currency": {
+            "enum": [
+                "INR"
+            ],
+            "title": "Currency",
+            "type": "string"
+        },
+        "InventoryStatus": {
+            "enum": [
+                "IN_STOCK",
+                "OUT_OF_STOCK",
+                "PREORDER"
+            ],
+            "title": "InventoryStatus",
+            "type": "string"
+        },
+        "Metadata": {
+            "description": "Metadata tracking request properties.",
+            "properties": {
+                "language": {
+                    "default": "en",
+                    "description": "Language code of the request",
+                    "title": "Language",
+                    "type": "string"
+                },
+                "country": {
+                    "default": "IN",
+                    "description": "Country code of the user",
+                    "title": "Country",
+                    "type": "string"
+                },
+                "currency": {
+                    "$ref": "#/$defs/Currency",
+                    "default": "INR",
+                    "description": "Requested currency"
+                },
+                "timestamp": {
+                    "description": "ISO8601 timestamp of the request",
+                    "title": "Timestamp",
+                    "type": "string"
+                },
+                "model_version": {
+                    "description": "Version of the Gemini model used",
+                    "title": "Model Version",
+                    "type": "string"
+                },
+                "knowledge_base_version": {
+                    "description": "Version of the AIKB used",
+                    "title": "Knowledge Base Version",
+                    "type": "string"
+                },
+                "request_id": {
+                    "description": "Unique UUID for tracing the request",
+                    "title": "Request Id",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "timestamp",
+                "model_version",
+                "knowledge_base_version",
+                "request_id"
+            ],
+            "title": "Metadata",
+            "type": "object"
+        },
+        "Mission": {
+            "enum": [
+                "Birthday",
+                "Gym",
+                "Hostel Setup",
+                "Movie Night",
+                "Travel Essentials",
+                "Weekly Prep",
+                "Work From Home"
+            ],
+            "title": "Mission",
+            "type": "string"
+        }
+    },
+    "description": "Master schema for the Intent Agent output.",
+    "properties": {
+        "primary_mission": {
+            "$ref": "#/$defs/Mission",
+            "description": "The primary mission identified from the catalog"
+        },
+        "secondary_missions": {
+            "description": "Any secondary missions identified",
+            "items": {
+                "$ref": "#/$defs/Mission"
+            },
+            "title": "Secondary Missions",
+            "type": "array"
+        },
+        "confidence": {
+            "description": "Overall confidence of the intent extraction",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "Confidence",
+            "type": "number"
+        },
+        "categories": {
+            "description": "Categories relevant to the request",
+            "items": {
+                "$ref": "#/$defs/Category"
+            },
+            "title": "Categories",
+            "type": "array"
+        },
+        "keywords": {
+            "description": "Extracted keywords mapping to the AIKB",
+            "items": {
+                "type": "string"
+            },
+            "title": "Keywords",
+            "type": "array"
+        },
+        "budget": {
+            "$ref": "#/$defs/Budget",
+            "description": "Extracted or inferred budget"
+        },
+        "constraints": {
+            "$ref": "#/$defs/Constraint",
+            "description": "User constraints and preferences"
+        },
+        "reasoning": {
+            "description": "Chain of thought explaining why this intent was extracted",
+            "title": "Reasoning",
+            "type": "string"
+        },
+        "request_metadata": {
+            "$ref": "#/$defs/Metadata",
+            "description": "Metadata for logging and tracking"
+        }
+    },
+    "required": [
+        "primary_mission",
+        "confidence",
+        "categories",
+        "keywords",
+        "budget",
+        "constraints",
+        "reasoning",
+        "request_metadata"
+    ],
+    "title": "MissionSchema",
+    "type": "object",
+    "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

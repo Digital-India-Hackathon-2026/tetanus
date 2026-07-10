@@ -1,0 +1,72 @@
+[
+    {
+        "category": "Automotive",
+        "minimum_price": 86.0,
+        "maximum_price": 265.0,
+        "median_price": 102.0,
+        "average_price": 131.8
+    },
+    {
+        "category": "Beauty",
+        "minimum_price": 63.0,
+        "maximum_price": 578.0,
+        "median_price": 159.0,
+        "average_price": 218.57
+    },
+    {
+        "category": "Electronics",
+        "minimum_price": 126.0,
+        "maximum_price": 73490.0,
+        "median_price": 1599.0,
+        "average_price": 7050.48
+    },
+    {
+        "category": "Fashion",
+        "minimum_price": 75.0,
+        "maximum_price": 1996.0,
+        "median_price": 369.0,
+        "average_price": 510.0
+    },
+    {
+        "category": "Groceries",
+        "minimum_price": 10.0,
+        "maximum_price": 730.0,
+        "median_price": 150.0,
+        "average_price": 235.27
+    },
+    {
+        "category": "Health",
+        "minimum_price": 123.0,
+        "maximum_price": 900.0,
+        "median_price": 283.5,
+        "average_price": 348.5
+    },
+    {
+        "category": "Home",
+        "minimum_price": 199.0,
+        "maximum_price": 32049.0,
+        "median_price": 1563.0,
+        "average_price": 5656.33
+    },
+    {
+        "category": "Office",
+        "minimum_price": 69.0,
+        "maximum_price": 362.0,
+        "median_price": 93.0,
+        "average_price": 162.4
+    },
+    {
+        "category": "Other",
+        "minimum_price": 18.0,
+        "maximum_price": 261.0,
+        "median_price": 149.0,
+        "average_price": 141.16
+    },
+    {
+        "category": "Sports",
+        "minimum_price": 89.0,
+        "maximum_price": 29699.0,
+        "median_price": 401.5,
+        "average_price": 8060.2
+    }
+]

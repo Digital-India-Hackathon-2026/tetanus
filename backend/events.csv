@@ -1,0 +1,51 @@
+event_id,product_id,event_type,payload,created_at
+e948175e-3b31-4e6c-96f4-85a339931a3f,d9641c8f-ba46-4313-98b6-9bae6e0518fb,TRENDING,"{""search_count"": 118}",2026-07-10T12:21:20.574874
+c05d2817-c5b3-4581-bfd5-0ba3ff925ec6,adeae5e2-e490-422d-8c04-e346249bf8c9,TRENDING,"{""search_count"": 799}",2026-07-10T12:21:20.574894
+8f7a451f-4cc8-4773-897c-725127c5b5af,f3386abd-8a35-4e86-840a-96482b009b5c,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-19""}",2026-07-10T12:21:20.574925
+792b030e-0b65-419c-ab10-242e7178dd57,319999f6-fa5d-4958-9315-cd93b09ff785,PRICE_DROP,"{""old_price"": 1735.99, ""new_price"": 987.7}",2026-07-10T12:21:20.574944
+726032cc-4e0c-4097-a6e5-edac3bec4030,13f0074b-2b4b-4af4-8c2b-8136034f2bc0,TRENDING,"{""search_count"": 744}",2026-07-10T12:21:20.574953
+85500476-14be-42ca-861e-1e89e3b48ff1,5df8f873-e384-4d0d-83f3-e922a853a008,LOW_STOCK,"{""remaining"": 1}",2026-07-10T12:21:20.574962
+8bd89d68-562d-4d76-a3d1-8bdab74d9128,e6623b08-23e9-4d6b-9d20-b027d1f6b47c,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-13""}",2026-07-10T12:21:20.574978
+b77dda30-b9b5-4ce8-9690-2440139bfb55,27fd221e-3908-4236-8c53-6497ba058267,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.574987
+1b592155-c758-4f36-a882-e4bdd1cb2601,d50151d4-c620-4743-b88f-57754338320e,LOW_STOCK,"{""remaining"": 3}",2026-07-10T12:21:20.574995
+f7bedcb6-61a6-4134-8d47-064ab96178de,68cfc219-6988-4cd2-a0f1-960f4f5ef87e,PRICE_DROP,"{""old_price"": 1518.0, ""new_price"": 710.83}",2026-07-10T12:21:20.575006
+caafe9b2-b196-41f9-aee6-e38999306ded,fc955ab7-0b6d-48b0-9b64-6cdd147577b9,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575015
+ad7eb83e-8a98-4ebd-918c-aa8d2e14c67c,f4be5f2a-4b3b-4103-8e9c-410bb390d23e,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575023
+6063181c-781d-4611-9c0a-00c11518100b,7917007c-0a17-4249-8a40-8c2aeec92a67,PRICE_DROP,"{""old_price"": 2780.63, ""new_price"": 560.14}",2026-07-10T12:21:20.575033
+92bf3545-0f2f-4b84-9c99-4203dc245891,b678406b-f380-498d-a92b-2667a2edcfd2,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-16""}",2026-07-10T12:21:20.575046
+7557c327-ed88-49de-ad4f-85e778f6fcf9,82e916b6-1d1c-4224-b3a5-f10fe7c3e417,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575055
+f29307a7-b5c5-41de-88e0-b9c3ffdd5a76,60236fa9-087d-462e-9f76-0bc406cce835,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575062
+8e163f56-0efd-483d-9d84-48b8134a299d,ea40bd9c-db7d-4749-93b3-9af1375bc3cb,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575070
+d4b53ad2-a212-4451-a30c-50be6ff19700,07facf0d-1a2c-4a5e-b5a7-1b07da5fc9bf,TRENDING,"{""search_count"": 161}",2026-07-10T12:21:20.575078
+8a3c1059-9fae-4d11-9c3b-6b3750b8a3fe,fe27278e-0e91-4d66-9288-b5ed3004e644,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575085
+fbce6c77-335e-4857-b036-2431912d3e58,545d8aff-7e89-45b4-a5b0-c50436ebc0da,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-22""}",2026-07-10T12:21:20.575097
+6fc74fbd-b2d4-4957-a3d1-8158c3dd9a80,2229ee4d-52bf-4d66-8a35-477a5b009121,PRICE_DROP,"{""old_price"": 1348.68, ""new_price"": 693.07}",2026-07-10T12:21:20.575107
+5521a893-5a6e-4f7c-907e-3ac945f4a463,a1cacfc3-e64d-4b67-a9da-742e077079d8,PRICE_DROP,"{""old_price"": 3483.18, ""new_price"": 961.15}",2026-07-10T12:21:20.575116
+9db7547d-0685-4052-b0fe-2e079f8e29cc,9578439a-90b3-4ab6-995b-044298a04499,LOW_STOCK,"{""remaining"": 4}",2026-07-10T12:21:20.575124
+ec259f75-a09a-4142-a8db-bbb5d55776c7,8aa47c05-2dae-445f-93cd-d72072882e66,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-20""}",2026-07-10T12:21:20.575136
+7ca213b6-b827-42ef-a6ad-5b07e8b44369,aa684593-d92e-4bd8-8423-bf9643ce0a9b,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-19""}",2026-07-10T12:21:20.575148
+b1e6d769-20f2-47c2-8a78-3d16a9f61339,818c25cb-f0a4-46db-8aa8-431ebeb06840,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-14""}",2026-07-10T12:21:20.575159
+4cbf1c80-1cc9-4152-affb-647b7a7b0893,99ecd02c-b33a-43f5-93a6-20194398962d,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575167
+3dd0aaa8-517c-44df-9813-e8c7c7413c29,7917007c-0a17-4249-8a40-8c2aeec92a67,LOW_STOCK,"{""remaining"": 2}",2026-07-10T12:21:20.575174
+0161ffcc-d264-4fa3-a29e-072f8a9e4c09,27fd221e-3908-4236-8c53-6497ba058267,LOW_STOCK,"{""remaining"": 2}",2026-07-10T12:21:20.575182
+736d0392-ce1a-462d-bd6b-a1a006ce8921,ea40bd9c-db7d-4749-93b3-9af1375bc3cb,LOW_STOCK,"{""remaining"": 4}",2026-07-10T12:21:20.575190
+7f9826db-e259-4d9f-b160-8aa6ef925571,3099b0f6-2bdb-49c3-a602-b335535b3ec3,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575198
+2064c53a-0047-4191-88a7-a615aa86da47,7d95dffb-395f-4f0a-b2b0-bf7a8eb6c0aa,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575205
+696e71be-a277-4640-9074-257108c13264,77e69b3d-296b-49d2-b6c1-fd0bc1b4b7e8,TRENDING,"{""search_count"": 218}",2026-07-10T12:21:20.575213
+7d4362ef-7cf7-43c3-87c6-9a96efe81dda,9c0ec8de-681a-4386-b53a-73eb396d25f4,NEW_REVIEW,"{""rating"": 5, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575220
+3aaf9f98-5f51-489e-a6ad-04d748c4797e,07facf0d-1a2c-4a5e-b5a7-1b07da5fc9bf,PRICE_DROP,"{""old_price"": 3723.8, ""new_price"": 763.88}",2026-07-10T12:21:20.575229
+180520f2-d5ba-4f05-bcf5-ec5eee3161fa,d51c5bee-1259-4a12-ae76-eceaef64e140,PRICE_DROP,"{""old_price"": 4533.02, ""new_price"": 507.3}",2026-07-10T12:21:20.575238
+ef724d95-a197-4ae3-9eb5-db3b97fd2a49,7e9da6bb-ee7e-4675-acd2-59432dfaf37e,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575246
+82be0926-8c51-451f-a237-73f9b5411232,f3386abd-8a35-4e86-840a-96482b009b5c,TRENDING,"{""search_count"": 945}",2026-07-10T12:21:20.575254
+5a685261-852a-4656-9f74-d885320d1251,c687b7f9-bf5e-49d2-8f15-86dace830cc2,TRENDING,"{""search_count"": 525}",2026-07-10T12:21:20.575262
+64198d68-7c66-4a98-b327-24b544dd17a7,57d65ac2-1330-488c-a1ee-87aa65adae5f,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575269
+258fe867-8906-4dc8-adcb-2c52dac498e0,90fa3e87-ff42-4f93-8a66-b1f739a88ec5,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-21""}",2026-07-10T12:21:20.575281
+ca2a2984-8435-47b8-8995-dd75b8e64f65,a1cacfc3-e64d-4b67-a9da-742e077079d8,TRENDING,"{""search_count"": 921}",2026-07-10T12:21:20.575289
+ca3dde63-62cc-4d70-9066-c994f8de637d,de41428c-f14f-4bc8-89ef-3d3c153f48f1,TRENDING,"{""search_count"": 453}",2026-07-10T12:21:20.575296
+d990f129-341b-4286-b503-b445b689f4f1,f1eb515e-39bc-49d3-9c8b-ce71174dbc04,PRICE_DROP,"{""old_price"": 1405.1, ""new_price"": 685.0}",2026-07-10T12:21:20.575306
+854de506-3d02-465d-a303-0bfe1f88fb51,376f5bf9-664b-4bae-b9d1-006f9fd89408,OUT_OF_STOCK,"{""expected_restock"": ""2026-07-18""}",2026-07-10T12:21:20.575317
+05013900-0609-41e2-b67b-380fa0ffa3f4,3dc00ff2-e2a0-426d-85cb-58db6c7e31a3,TRENDING,"{""search_count"": 304}",2026-07-10T12:21:20.575325
+19f3e5a1-f045-4ffd-b602-a02ef7f1f4c8,0517a23e-2f08-423f-b75c-28631c3a636f,LOW_STOCK,"{""remaining"": 2}",2026-07-10T12:21:20.575332
+4b6c2d19-4a81-415a-852f-f137557ceeb0,b678406b-f380-498d-a92b-2667a2edcfd2,LOW_STOCK,"{""remaining"": 2}",2026-07-10T12:21:20.575339
+d57244ad-9e02-46a7-804a-80a7636aa6d4,c1919976-749d-4e71-8d19-a16cfa964fb4,NEW_REVIEW,"{""rating"": 4, ""comment"": ""Great product!""}",2026-07-10T12:21:20.575346
+fddf8a4c-8549-41ac-b5f2-3f675af676ed,2e083236-72a8-4c95-ae00-ea93bbd376a9,PRICE_DROP,"{""old_price"": 3869.78, ""new_price"": 561.2}",2026-07-10T12:21:20.575356

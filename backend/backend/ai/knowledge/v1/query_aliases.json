@@ -1,0 +1,41 @@
+{
+    "laptop": [
+        "notebook",
+        "pc",
+        "computer",
+        "macbook"
+    ],
+    "phone": [
+        "smartphone",
+        "mobile",
+        "cellphone"
+    ],
+    "bag": [
+        "backpack",
+        "luggage",
+        "suitcase"
+    ],
+    "shirt": [
+        "tshirt",
+        "t-shirt",
+        "top",
+        "tee"
+    ],
+    "gym": [
+        "workout",
+        "fitness",
+        "exercise"
+    ],
+    "travel": [
+        "trip",
+        "vacation",
+        "journey",
+        "weekend getaway"
+    ],
+    "premium": [
+        "luxury",
+        "high-end",
+        "expensive",
+        "top tier"
+    ]
+}

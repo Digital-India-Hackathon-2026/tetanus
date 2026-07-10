@@ -1,0 +1,756 @@
+{
+    "valid_examples": [
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5000,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5100,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5200,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5300,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5400,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5500,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5600,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5700,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5800,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        },
+        {
+            "primary_mission": "Birthday",
+            "secondary_missions": [],
+            "categories": [
+                "Automotive"
+            ],
+            "keywords": [
+                "test",
+                "keyword"
+            ],
+            "budget": {
+                "amount": 5900,
+                "currency": "INR",
+                "confidence": 1.0
+            },
+            "constraints": {
+                "preferred_brands": [],
+                "excluded_brands": [],
+                "preferred_categories": [],
+                "must_have": [],
+                "nice_to_have": [],
+                "minimum_rating": 4.0,
+                "inventory_required": "IN_STOCK"
+            },
+            "request_metadata": {
+                "language": "en",
+                "country": "IN",
+                "currency": "INR",
+                "timestamp": "2026-07-10T14:22:28.795394",
+                "model_version": "gemini-1.5-pro",
+                "knowledge_base_version": "current",
+                "request_id": "123e4567-e89b-12d3-a456-426614174000"
+            },
+            "intent_status": "SUPPORTED",
+            "overall_confidence": 0.95,
+            "reasoning_summary": "This is a valid reasoning string."
+        }
+    ],
+    "invalid_examples": [
+        {
+            "payload": {
+                "primary_mission": "UNKNOWN_MISSION",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "primary_mission value is not in the Mission enum."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 1.5,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "confidence exceeds maximum value of 1.0."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "Missing required field: categories."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": "string"
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "budget.amount is a string, expected number."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {},
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "request_metadata is missing required fields."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "minimum_rating": 6.0
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "constraints.minimum_rating exceeds 5.0."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": "not a list",
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "keywords is a string, expected a list."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [
+                    "BAD_MISSION"
+                ],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "secondary_missions contains an invalid enum value."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": -0.1
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "IN_STOCK"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "budget.confidence is below 0.0."
+        },
+        {
+            "payload": {
+                "primary_mission": "Birthday",
+                "secondary_missions": [],
+                "categories": [
+                    "Automotive"
+                ],
+                "keywords": [
+                    "test",
+                    "keyword"
+                ],
+                "budget": {
+                    "amount": 5000,
+                    "currency": "INR",
+                    "confidence": 1.0
+                },
+                "constraints": {
+                    "preferred_brands": [],
+                    "excluded_brands": [],
+                    "preferred_categories": [],
+                    "must_have": [],
+                    "nice_to_have": [],
+                    "minimum_rating": 4.0,
+                    "inventory_required": "NEVER"
+                },
+                "request_metadata": {
+                    "language": "en",
+                    "country": "IN",
+                    "currency": "INR",
+                    "timestamp": "2026-07-10T14:22:28.795394",
+                    "model_version": "gemini-1.5-pro",
+                    "knowledge_base_version": "current",
+                    "request_id": "123e4567-e89b-12d3-a456-426614174000"
+                },
+                "overall_confidence": 0.95,
+                "reasoning_summary": "This is a valid reasoning string.",
+                "intent_status": "SUPPORTED"
+            },
+            "reason": "constraints.inventory_required is an invalid enum."
+        }
+    ]
+}

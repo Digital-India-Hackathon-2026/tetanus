@@ -1,0 +1,197 @@
+[
+    {
+        "category_name": "Automotive",
+        "number_of_products": 5,
+        "representative_products": [
+            "Colgate Kids Barbie Toothpaste  (2 Minute Timer Free)  (80 G)",
+            "Meemee Fluoride-Free Strawberry Flavor Toothpaste  (140 G, Pack Of 2)",
+            "Colgate Kids Spiderman Toothpaste  (80 G)"
+        ],
+        "brands_present": [
+            "Colgate",
+            "Meemee",
+            "Pepsodent",
+            "Closeup"
+        ],
+        "average_price": 131.8,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Beauty",
+        "number_of_products": 21,
+        "representative_products": [
+            "Nike 5Th Element Deodorant Spray - For Women  (200 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)"
+        ],
+        "brands_present": [
+            "Nike",
+            "Pantene",
+            "Set Wet",
+            "Dove",
+            "Set Wet Studio X",
+            "Park Avenue",
+            "Parachute",
+            "Tresemme",
+            "Himalaya",
+            "Clinic Plus",
+            "L'Oreal Paris",
+            "Ponds",
+            "Vaseline",
+            "Johnson'S",
+            "Head & Shoulders"
+        ],
+        "average_price": 218.57,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Electronics",
+        "number_of_products": 25,
+        "representative_products": [
+            "Samyang 85Mm T1.5 Vdslr Mk2 For Canon  Lens  (Black, 85 Mm)",
+            "Benq 24 Inch Full Hd Led Backlit Tn Panel Height Adjustment, 3D, Swivel Adjustment, Flicker-Free Gaming Monitor (Xl2411P)  (Response Time: 1 Ms, 144 Hz Refresh Rate)",
+            "Hp Laserjet M1005 Mfp Multi-Function Monochrome Laser Printer (Black Page Cost: 3 Rs.)  (White, Black, Toner Cartridge)"
+        ],
+        "brands_present": [
+            "Generic"
+        ],
+        "average_price": 7050.48,
+        "average_rating": 4.3
+    },
+    {
+        "category_name": "Fashion",
+        "number_of_products": 25,
+        "representative_products": [
+            "Himalaya Fairness Kesar Face Wash  (150 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Himalaya Nourishing Body Lotion For Normal Skin  (400 Ml)"
+        ],
+        "brands_present": [
+            "Himalaya",
+            "Everyuth Naturals",
+            "Old Spice",
+            "Indulekha",
+            "Vaseline",
+            "Nivea",
+            "Generic"
+        ],
+        "average_price": 510.0,
+        "average_rating": 4.25
+    },
+    {
+        "category_name": "Groceries",
+        "number_of_products": 15,
+        "representative_products": [
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food",
+            "Pedigree Gravy Chicken Chunks For Puppy Chicken 1.2 Kg Wet Dog Food  (Pack Of 15)"
+        ],
+        "brands_present": [
+            "Flipkart Supermart Select",
+            "Pedigree",
+            "Whiskas",
+            "Galaxy",
+            "Kohinoor",
+            "Nestle Nan Excella Pro",
+            "Nestle",
+            "Nestle Cerelac",
+            "Milkybar",
+            "Mars",
+            "Orbit"
+        ],
+        "average_price": 235.27,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Health",
+        "number_of_products": 10,
+        "representative_products": [
+            "Complan Creamy Classic  (500 G)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "brands_present": [
+            "Complan",
+            "Nestle Nangrow",
+            "Pediasure",
+            "Horlicks",
+            "Aachi",
+            "Rasna",
+            "Active Horlicks",
+            "Boost",
+            "Maiyas"
+        ],
+        "average_price": 348.5,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Home",
+        "number_of_products": 15,
+        "representative_products": [
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock",
+            "Urja Smart Automation L&G A6 Smart Door Lock",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))"
+        ],
+        "brands_present": [
+            "Generic"
+        ],
+        "average_price": 5656.33,
+        "average_rating": 4.32
+    },
+    {
+        "category_name": "Office",
+        "number_of_products": 5,
+        "representative_products": [
+            "Dab N Klean Swachh Kichen Towel  (Buy 1 Get 1 (Dab N Klean Kitchen Towel) Free)  (2 Ply, 90 Sheets)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Dab N Klean Toilet Paper Roll  (Buy 1 Get 1 (Dab N Klean Toilet Rolls) Free)  (3 Ply, 300 Sheets)"
+        ],
+        "brands_present": [
+            "Dab N Klean",
+            "Flipkart Supermart Home Essentials",
+            "Flipkart Supermart Kitchen Essentials"
+        ],
+        "average_price": 162.4,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Other",
+        "number_of_products": 19,
+        "representative_products": [
+            "Nivea Men Deep Impact Comfort After Shave Lotion  (100 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Gillette Venus Hair Removal Razor For Women"
+        ],
+        "brands_present": [
+            "Nivea Men",
+            "Flipkart Supermart Select",
+            "Gillette",
+            "Axe",
+            "7Up",
+            "Glucon-D",
+            "Fanta",
+            "Kohinoor",
+            "Nescafe",
+            "Saffola",
+            "Softouch",
+            "Scotch Brite",
+            "Happilo"
+        ],
+        "average_price": 141.16,
+        "average_rating": 4.8
+    },
+    {
+        "category_name": "Sports",
+        "number_of_products": 10,
+        "representative_products": [
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Cool Indians Best Quality Hand Grip Exerciser/Strengthener For Men & Women Gym & Fitness Kit",
+            "Bose Frames Rondo  (Smart Glasses, Black)"
+        ],
+        "brands_present": [
+            "Generic"
+        ],
+        "average_price": 8060.2,
+        "average_rating": 4.41
+    }
+]

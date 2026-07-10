@@ -1,0 +1,114 @@
+{
+    "$defs": {
+        "Category": {
+            "enum": [
+                "Automotive",
+                "Beauty",
+                "Electronics",
+                "Fashion",
+                "Groceries",
+                "Health",
+                "Home",
+                "Office",
+                "Other",
+                "Sports"
+            ],
+            "title": "Category",
+            "type": "string"
+        },
+        "InventoryStatus": {
+            "enum": [
+                "IN_STOCK",
+                "OUT_OF_STOCK",
+                "PREORDER"
+            ],
+            "title": "InventoryStatus",
+            "type": "string"
+        }
+    },
+    "description": "Schema defining user constraints and preferences.",
+    "properties": {
+        "preferred_brands": {
+            "description": "List of specifically requested brands",
+            "items": {
+                "type": "string"
+            },
+            "title": "Preferred Brands",
+            "type": "array"
+        },
+        "excluded_brands": {
+            "description": "Brands the user does not want",
+            "items": {
+                "type": "string"
+            },
+            "title": "Excluded Brands",
+            "type": "array"
+        },
+        "preferred_categories": {
+            "description": "Categories the user is interested in",
+            "items": {
+                "$ref": "#/$defs/Category"
+            },
+            "title": "Preferred Categories",
+            "type": "array"
+        },
+        "must_have": {
+            "description": "Features or keywords the items MUST have",
+            "items": {
+                "type": "string"
+            },
+            "title": "Must Have",
+            "type": "array"
+        },
+        "nice_to_have": {
+            "description": "Features or keywords the user would like",
+            "items": {
+                "type": "string"
+            },
+            "title": "Nice To Have",
+            "type": "array"
+        },
+        "maximum_delivery_days": {
+            "anyOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Maximum acceptable delivery time in days",
+            "title": "Maximum Delivery Days"
+        },
+        "preferred_price_range": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Qualitative price range e.g., 'cheap', 'premium'",
+            "title": "Preferred Price Range"
+        },
+        "minimum_rating": {
+            "default": 0.0,
+            "description": "Minimum acceptable average rating",
+            "maximum": 5.0,
+            "minimum": 0.0,
+            "title": "Minimum Rating",
+            "type": "number"
+        },
+        "inventory_required": {
+            "$ref": "#/$defs/InventoryStatus",
+            "default": "IN_STOCK",
+            "description": "Required inventory status"
+        }
+    },
+    "title": "Constraint",
+    "type": "object",
+    "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

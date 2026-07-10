@@ -1,0 +1,7 @@
+Mission,Missing Field,Importance,Reason,Possible Question
+Hostel Setup,Budget,High,Critical for student segments,What is your target budget for room setup items?
+Hostel Setup,Sharing Preference,Medium,Determines quantity of products,Are you sharing your hostel room with roommates?
+Gym Starter,Fitness Goal,High,Helps tailor protein/workout gear,"Are you looking for muscle building, fat loss, or general fitness?"
+Weekly Grocery,Dietary Restriction,High,Filters ingredients,Do you have any dietary restrictions or preferences like organic or vegan?
+Movie Night,Snack Type,Medium,Balances sweet vs salty cravings,Do you prefer sweet snacks or savory options for your movie night?
+Freelancer Remote Setup,Device Type,High,Dictates accessory compatibility,What main computer or tablet do you use for work?

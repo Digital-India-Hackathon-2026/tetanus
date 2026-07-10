@@ -1,0 +1,55 @@
+{
+  "ASK_BUDGET": {
+    "question": "What is your approximate budget?",
+    "type": "NUMBER"
+  },
+  "ASK_BRAND_PREFERENCE": {
+    "question": "Do you have any specific brand preferences?",
+    "type": "SINGLE_SELECT",
+    "options": ["No preference", "Yes (please specify)"]
+  },
+  "ASK_MISSING_CATEGORY": {
+    "question": "We specialize in daily household items, gym gear, travel essentials, and home office setups. Would you like to shop in one of these areas?",
+    "type": "SINGLE_SELECT",
+    "options": ["Hostel Setup", "Gym", "Travel Essentials", "Work From Home", "Weekly Prep", "Movie Night", "Birthday"]
+  },
+  "ASK_DELIVERY_TIME": {
+    "question": "How quickly do you need these items delivered?",
+    "type": "SINGLE_SELECT",
+    "options": ["Immediate (Today)", "Normal (2-3 Days)", "Low Priority (Whenever)"]
+  },
+  "ASK_USAGE_CONTEXT": {
+    "question": "Could you tell me a bit more about what you are planning to use these items for?",
+    "type": "SINGLE_SELECT",
+    "options": ["Hostel Setup", "Gym", "Travel Essentials", "Work From Home", "Weekly Prep", "Movie Night", "Birthday"]
+  },
+  "ASK_COOKING": {
+    "question": "Will you be cooking regularly?",
+    "type": "BOOLEAN"
+  },
+  "ASK_ROOM_TYPE": {
+    "question": "What type of room are you staying in?",
+    "type": "SINGLE_SELECT",
+    "options": ["Single Room", "Shared Room", "PG", "Apartment"]
+  },
+  "ASK_TRIP_DURATION": {
+    "question": "How long is your trip?",
+    "type": "SINGLE_SELECT",
+    "options": ["Weekend (1-3 days)", "Short (4-7 days)", "Long (1+ weeks)"]
+  },
+  "ASK_WORK_MODE": {
+    "question": "What is your primary work setup?",
+    "type": "SINGLE_SELECT",
+    "options": ["Laptop only", "Laptop + Monitor", "Desktop"]
+  },
+  "ASK_GYM_GOAL": {
+    "question": "What is your primary fitness goal?",
+    "type": "SINGLE_SELECT",
+    "options": ["Weight Loss", "Muscle Gain", "General Fitness", "Yoga/Flexibility"]
+  },
+  "ASK_PRIORITY": {
+    "question": "Which of these items is your highest priority?",
+    "type": "SINGLE_SELECT",
+    "options": ["Essentials first", "Everything at once"]
+  }
+}

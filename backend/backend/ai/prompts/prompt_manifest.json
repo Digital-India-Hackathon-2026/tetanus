@@ -1,0 +1,40 @@
+{
+  "prompts": {
+    "intent_system": {
+      "versions": {
+        "v1": {
+          "description": "System prompt for Intent Extraction Agent",
+          "filename": "intent/system.md",
+          "required_variables": ["user_input", "rules", "few_shot_examples"],
+          "optional_variables": [],
+          "aikb_dependencies": ["mission_catalog.json", "supported_categories.json"],
+          "schema_dependencies": ["mission_schema.json"]
+        }
+      }
+    },
+    "intent_rules": {
+      "versions": {
+        "v1": {
+          "description": "Rules for Intent Extraction Agent",
+          "filename": "intent/rules.md",
+          "required_variables": [],
+          "optional_variables": [],
+          "aikb_dependencies": [],
+          "schema_dependencies": []
+        }
+      }
+    },
+    "intent_examples": {
+      "versions": {
+        "v1": {
+          "description": "Few-shot examples for Intent Extraction Agent",
+          "filename": "intent/examples.md",
+          "required_variables": [],
+          "optional_variables": [],
+          "aikb_dependencies": [],
+          "schema_dependencies": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "$defs": {
+        "Currency": {
+            "enum": [
+                "INR"
+            ],
+            "title": "Currency",
+            "type": "string"
+        }
+    },
+    "description": "Schema defining user budget parameters.",
+    "properties": {
+        "amount": {
+            "anyOf": [
+                {
+                    "type": "number"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Exact budget amount if specified",
+            "title": "Amount"
+        },
+        "currency": {
+            "$ref": "#/$defs/Currency",
+            "default": "INR",
+            "description": "Currency of the budget"
+        },
+        "minimum": {
+            "anyOf": [
+                {
+                    "type": "number"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Minimum acceptable price",
+            "title": "Minimum"
+        },
+        "maximum": {
+            "anyOf": [
+                {
+                    "type": "number"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Maximum acceptable price",
+            "title": "Maximum"
+        },
+        "estimated": {
+            "anyOf": [
+                {
+                    "type": "boolean"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": false,
+            "description": "Whether the budget is an AI estimation",
+            "title": "Estimated"
+        },
+        "confidence": {
+            "description": "Confidence in the budget extraction",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "Confidence",
+            "type": "number"
+        }
+    },
+    "required": [
+        "confidence"
+    ],
+    "title": "Budget",
+    "type": "object",
+    "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

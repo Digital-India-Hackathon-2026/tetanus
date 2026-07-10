@@ -1,0 +1,6 @@
+{
+    "max_per_brand": 2,
+    "max_per_category": 3,
+    "max_per_subcategory": 2,
+    "max_total_results": 10
+}

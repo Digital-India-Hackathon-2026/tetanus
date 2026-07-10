@@ -1,0 +1,39 @@
+{
+  "priorities": [
+    "ASK_MISSING_CATEGORY",
+    "ASK_USAGE_CONTEXT",
+    "ASK_BUDGET",
+    "ASK_GYM_GOAL",
+    "ASK_TRIP_DURATION",
+    "ASK_WORK_MODE",
+    "ASK_COOKING",
+    "ASK_ROOM_TYPE",
+    "ASK_BRAND_PREFERENCE",
+    "ASK_DELIVERY_TIME",
+    "ASK_PRIORITY"
+  ],
+  "global_rules": {
+    "missing_budget": "ASK_BUDGET",
+    "unclear_brand": "ASK_BRAND_PREFERENCE"
+  },
+  "mission_rules": {
+    "Hostel Setup": [
+      "ASK_COOKING",
+      "ASK_ROOM_TYPE"
+    ],
+    "Gym": [
+      "ASK_GYM_GOAL"
+    ],
+    "Travel Essentials": [
+      "ASK_TRIP_DURATION"
+    ],
+    "Work From Home": [
+      "ASK_WORK_MODE"
+    ]
+  },
+  "dependencies": {
+    "ASK_ROOM_TYPE": ["ASK_COOKING"]
+  },
+  "max_questions": 3,
+  "confidence_threshold": 0.90
+}

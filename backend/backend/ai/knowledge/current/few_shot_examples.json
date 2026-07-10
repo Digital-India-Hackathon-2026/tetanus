@@ -1,0 +1,1274 @@
+[
+    {
+        "User Query": "What do you recommend for a Birthday?",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Movie Night",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Hostel Setup",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Hostel Setup?",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Work From Home coming up, need products.",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Hostel Setup?",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Gym coming up, need products.",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Birthday essentials",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Movie Night coming up, need products.",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Hostel Setup",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Birthday essentials",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Weekly Prep?",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Hostel Setup",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Movie Night",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Movie Night essentials",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Hostel Setup?",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Birthday essentials",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Work From Home",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Work From Home",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Work From Home",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Work From Home coming up, need products.",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Hostel Setup essentials",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Travel Essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Hostel Setup essentials",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Work From Home coming up, need products.",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Hostel Setup",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Hostel Setup essentials",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Work From Home",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Gym?",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Gym?",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Hostel Setup essentials",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Gym essentials",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Gym?",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Weekly Prep",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Hostel Setup essentials",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Work From Home coming up, need products.",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Weekly Prep?",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Work From Home coming up, need products.",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Hostel Setup",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Gym coming up, need products.",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Travel Essentials?",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Hostel Setup?",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Movie Night coming up, need products.",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Birthday",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Travel Essentials?",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Movie Night",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Travel Essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Travel Essentials essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Travel Essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Gym?",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Gym",
+        "Expected Mission": "Gym",
+        "Expected Categories": [
+            "Fashion",
+            "Sports"
+        ],
+        "Expected Keywords": [
+            "gym"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Work From Home?",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Looking to buy items for Travel Essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Weekly Prep essentials",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Travel Essentials",
+        "Expected Mission": "Travel Essentials",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "travel",
+            "essentials"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "What do you recommend for a Hostel Setup?",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Hostel Setup coming up, need products.",
+        "Expected Mission": "Hostel Setup",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "hostel",
+            "setup"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Weekly Prep",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Birthday essentials",
+        "Expected Mission": "Birthday",
+        "Expected Categories": [
+            "Fashion",
+            "Beauty"
+        ],
+        "Expected Keywords": [
+            "birthday"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I need some stuff for Weekly Prep",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Movie Night essentials",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Movie Night coming up, need products.",
+        "Expected Mission": "Movie Night",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "movie",
+            "night"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "Show me Work From Home essentials",
+        "Expected Mission": "Work From Home",
+        "Expected Categories": [
+            "Electronics",
+            "Home"
+        ],
+        "Expected Keywords": [
+            "work",
+            "from",
+            "home"
+        ],
+        "Expected Budget": "Flexible"
+    },
+    {
+        "User Query": "I have a Weekly Prep coming up, need products.",
+        "Expected Mission": "Weekly Prep",
+        "Expected Categories": [
+            "Groceries"
+        ],
+        "Expected Keywords": [
+            "weekly",
+            "prep"
+        ],
+        "Expected Budget": "Flexible"
+    }
+]

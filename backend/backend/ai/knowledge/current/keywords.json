@@ -1,0 +1,3773 @@
+[
+    {
+        "keyword": "your",
+        "classification": "product_keyword",
+        "frequency": 341,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Taiyo Gold Toyko Turtle Food 1 Kg Chicken 1 Kg Dry Adult, New Born, Young, Senior Turtle Food",
+            "Mi 3I 10000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "you",
+        "classification": "product_keyword",
+        "frequency": 215,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Mi 3I 10000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "skin",
+        "classification": "product_keyword",
+        "frequency": 119,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Other",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "hair",
+        "classification": "product_keyword",
+        "frequency": 107,
+        "related_products": [
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Gillette Venus Hair Removal Razor For Women",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "from",
+        "classification": "mission_keyword",
+        "frequency": 98,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "can",
+        "classification": "product_keyword",
+        "frequency": 92,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Bright Bharat Uplight Wall Lamp With Bulb"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "body",
+        "classification": "product_keyword",
+        "frequency": 65,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "all",
+        "classification": "product_keyword",
+        "frequency": 60,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "its",
+        "classification": "product_keyword",
+        "frequency": 57,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "will",
+        "classification": "product_keyword",
+        "frequency": 55,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "men",
+        "classification": "product_keyword",
+        "frequency": 55,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "healthy",
+        "classification": "product_keyword",
+        "frequency": 54,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "also",
+        "classification": "product_keyword",
+        "frequency": 53,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "quality",
+        "classification": "product_keyword",
+        "frequency": 50,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Active Horlicks Nurtrition For Adults  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Office",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "has",
+        "classification": "product_keyword",
+        "frequency": 49,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "free",
+        "classification": "product_keyword",
+        "frequency": 47,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Taiyo Gold Toyko Turtle Food 1 Kg Chicken 1 Kg Dry Adult, New Born, Young, Senior Turtle Food"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Office",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "which",
+        "classification": "product_keyword",
+        "frequency": 44,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Nescafe Classic Instant Coffee  (100 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "long",
+        "classification": "product_keyword",
+        "frequency": 43,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Mars Chocolate Bars  (51 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Taiyo Gold Toyko Turtle Food 1 Kg Chicken 1 Kg Dry Adult, New Born, Young, Senior Turtle Food"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "oil",
+        "classification": "product_keyword",
+        "frequency": 40,
+        "related_products": [
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "use",
+        "classification": "product_keyword",
+        "frequency": 39,
+        "related_products": [
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Colgate Kids Spiderman Toothpaste  (80 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "set",
+        "classification": "product_keyword",
+        "frequency": 39,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Bright Bharat Uplight Wall Lamp With Bulb",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "make",
+        "classification": "product_keyword",
+        "frequency": 38,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "high",
+        "classification": "product_keyword",
+        "frequency": 38,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Active Horlicks Nurtrition For Adults  (500 G)",
+            "Rasna Native Haat Honey Vita Chocolate Flavour  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Office",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "day",
+        "classification": "product_keyword",
+        "frequency": 38,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "more",
+        "classification": "product_keyword",
+        "frequency": 36,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Automotive",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "helps",
+        "classification": "product_keyword",
+        "frequency": 35,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "coffee",
+        "classification": "product_keyword",
+        "frequency": 35,
+        "related_products": [
+            "Mcaffeine Coffee Lip Balm For Dry & Pigmented Lips - 24 Hours Moisturization With Coffee Oil And Shea Butter  (Pack Of: 1, 12 G)",
+            "Nescafe Classic Instant Coffee  (100 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "shampoo",
+        "classification": "product_keyword",
+        "frequency": 35,
+        "related_products": [
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "food",
+        "classification": "product_keyword",
+        "frequency": 34,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Nestle Cerelac Wheat Apple Carrot Cereal  (300 G, 6+ Months)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Pedigree Senior Rice, Chicken 3 Kg Dry Dog Food",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "power",
+        "classification": "product_keyword",
+        "frequency": 33,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Spruce Shave Club Perfume Set For Men (Pack Of 4) | Long Lasting Perfume For Men-Best Gift For Men Eau De Parfum  -  32 Ml  (For Men)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "keep",
+        "classification": "product_keyword",
+        "frequency": 33,
+        "related_products": [
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Complan Royale Chocolate  (750 G)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "natural",
+        "classification": "product_keyword",
+        "frequency": 33,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Bright Bharat Uplight Wall Lamp With Bulb",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "cable",
+        "classification": "product_keyword",
+        "frequency": 31,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock",
+            "Boat Micro Usb Cable 2.4 A 1.5 M Micro Usb 500 Black 1.5M  (Compatible With All Micro Usb Supported Devices, Black, One Cable)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "have",
+        "classification": "product_keyword",
+        "frequency": 31,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Mars Chocolate Bars  (51 G)",
+            "Radhekunj Fitness Men, Women Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "get",
+        "classification": "product_keyword",
+        "frequency": 31,
+        "related_products": [
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Beauty",
+            "Automotive",
+            "Office",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "formula",
+        "classification": "product_keyword",
+        "frequency": 31,
+        "related_products": [
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Complan Creamy Classic  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "usb",
+        "classification": "product_keyword",
+        "frequency": 30,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "gives",
+        "classification": "product_keyword",
+        "frequency": 30,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Bright Bharat Uplight Wall Lamp With Bulb",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "lotion",
+        "classification": "product_keyword",
+        "frequency": 30,
+        "related_products": [
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Vaseline Healthy White Complete 10 Body Lotion  (400 Ml)",
+            "Axe Temptation After Shave Lotion  (100 Ml)",
+            "Nivea Men Sensitive Cooling After Shave Lotion  (100 Ml)",
+            "Vaseline Intensive Care Cocoa Glow Body Lotion  (400 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "flipkart",
+        "classification": "product_keyword",
+        "frequency": 30,
+        "related_products": [
+            "Flipkart Supermart Home Essentials Toilet Paper Roll  (Buy 1 Get 1 Free)  (3 Ply, 200 Sheets)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Office",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "black",
+        "classification": "product_keyword",
+        "frequency": 28,
+        "related_products": [
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Samyang 85Mm T1.5 Vdslr Mk2 For Canon  Lens  (Black, 85 Mm)",
+            "Mi 3I 10000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)",
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "help",
+        "classification": "product_keyword",
+        "frequency": 28,
+        "related_products": [
+            "Complan Creamy Classic  (500 G)",
+            "Flipkart Supermart Select Pumpkin Seeds Assorted Nuts  (100 G)",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "light",
+        "classification": "product_keyword",
+        "frequency": 27,
+        "related_products": [
+            "Nikon Af-S Nikkor 50Mm F/1.8G   Lens  (Black, 90 Mm)",
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Mars Chocolate Bars  (51 G)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "best",
+        "classification": "product_keyword",
+        "frequency": 27,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Bella Vita Organic White Oud Eau De Parfum,Long Lasting,Unisex Eau De Parfum  -  100 Ml  (For Men & Women)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "fragrance",
+        "classification": "product_keyword",
+        "frequency": 27,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "supermart",
+        "classification": "product_keyword",
+        "frequency": 27,
+        "related_products": [
+            "Flipkart Supermart Home Essentials Toilet Paper Roll  (Buy 1 Get 1 Free)  (3 Ply, 200 Sheets)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)"
+        ],
+        "related_categories": [
+            "Office",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "comes",
+        "classification": "product_keyword",
+        "frequency": 26,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "made",
+        "classification": "product_keyword",
+        "frequency": 26,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Mars Chocolate Bars  (51 G)",
+            "Radhekunj Fitness Men, Women Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "makes",
+        "classification": "product_keyword",
+        "frequency": 25,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear",
+            "Vaseline Intensive Care Cocoa Glow Body Lotion  (400 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "product",
+        "classification": "product_keyword",
+        "frequency": 25,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Active Horlicks Nurtrition For Adults  (500 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Rasna Native Haat Honey Vita Chocolate Flavour  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Automotive",
+            "Office",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "rich",
+        "classification": "product_keyword",
+        "frequency": 25,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "anti",
+        "classification": "product_keyword",
+        "frequency": 25,
+        "related_products": [
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)",
+            "Cool Indians Best Quality Hand Grip Exerciser/Strengthener For Men & Women Gym & Fitness Kit"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "new",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Bose Frames Rondo  (Smart Glasses, Black)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "one",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "soft",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Milkybar Moosha Wheat Cocoa Crispies- 45G Bars  (45 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "not",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Dumpfit Men, Women, Unisex Shapewear",
+            "Nilkamal Travelite 1 Inch Single Cotton Mattress  (L X W: 72 Inch X 36 Inch)",
+            "Nivea Men Sensitive Cooling After Shave Lotion  (100 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "wash",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Gillette Venus Hair Removal Razor For Women",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "vitamin",
+        "classification": "product_keyword",
+        "frequency": 24,
+        "related_products": [
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "time",
+        "classification": "product_keyword",
+        "frequency": 23,
+        "related_products": [
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Himalaya Khus Khus Baby Powder  (100 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "home",
+        "classification": "mission_keyword",
+        "frequency": 23,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Powermax Fitness Td-M1 Treadmill"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Office",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "kitchen",
+        "classification": "product_keyword",
+        "frequency": 23,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Dab N Klean Swachh Kichen Towel  (Buy 1 Get 1 (Dab N Klean Kitchen Towel) Free)  (2 Ply, 90 Sheets)",
+            "Flipkart Smartbuy Wooden Spoon Set Kitchen Cooking Spatula Non Stick Serving Set Of 6 Brown Kitchen Tool Set  (Brown, Spatula, Ladle, Skimmer)",
+            "Scotch Brite Kitchen Scrub Wet And Dry Microfibre Cleaning Cloth"
+        ],
+        "related_categories": [
+            "Office",
+            "Home",
+            "Electronics",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "baby",
+        "classification": "product_keyword",
+        "frequency": 23,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Johnson'S Milk Plus Rice Cream  (100 G)",
+            "Nestle Nan Excella Pro Infant Formula Powder (Stage 1)  (400 G, Upto 6 Months)",
+            "Accessoreez Kemei Km-203B Professional Electric Hair Clipper Trimmer Shaver Razor Hair Scissors Hair Cutting Quiet Used For Man And Baby Grooming Kit 60 Min  Runtime 4 Length Settings  (White)",
+            "Himalaya Khus Khus Baby Powder  (100 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Beauty",
+            "Groceries"
+        ]
+    },
+    {
+        "keyword": "give",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Dove Intense Repair Shampoo  (650 Ml)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "easy",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "perfect",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "while",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Mi 3I 10000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "tripod",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Stripling Best Price Universal Wired Handheld Photography Video Recording Youtube Caputure Tripod, Tripod Kit, Monopod Kit  (Black, Supports Up To 600 G)",
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Callmate L-1 Portable & Flexible Mini Tripod | With 360 Degree Ball Head | For Smart Phones | Compact Cameras | Gopro | Tripod  (Black, Supports Up To 3000 G)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "growth",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Complan Creamy Classic  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "perfume",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)",
+            "Spruce Shave Club Perfume Set For Men (Pack Of 4) | Long Lasting Perfume For Men-Best Gift For Men Eau De Parfum  -  32 Ml  (For Men)",
+            "Beardo Whisky Smoke Edp 100 Ml Eau De Parfum  -  100 Ml  (For Men)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "wet",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Man Matters Activated Charcoal Body Wash For Men | Skin Brightening Shower Gel | Niacinamide  (275 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "toothpaste",
+        "classification": "product_keyword",
+        "frequency": 22,
+        "related_products": [
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)",
+            "Colgate Kids Barbie Toothpaste  (2 Minute Timer Free)  (80 G)",
+            "Meemee Fluoride-Free Strawberry Flavor Toothpaste  (140 G, Pack Of 2)",
+            "Colgate Kids Spiderman Toothpaste  (80 G)",
+            "Closeup Red Hot Mouthwash - Clove Oil  (250 Ml)"
+        ],
+        "related_categories": [
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "our",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "their",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)"
+        ],
+        "related_categories": [
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "lasting",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Beauty",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "select",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Flipkart Supermart Select Soya Bean  (500 G)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "taste",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Mars Chocolate Bars  (51 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Whiskas Adult (+1 Year) Fish Cat Treat  (480 G)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "chocolate",
+        "classification": "product_keyword",
+        "frequency": 21,
+        "related_products": [
+            "Mars Chocolate Bars  (51 G)",
+            "Galaxy Smooth Milk Bars  (36 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Rasna Native Haat Honey Vita Chocolate Flavour  (500 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "design",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Bose Frames Rondo  (Smart Glasses, Black)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "color",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "health",
+        "classification": "category_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Vaseline Healthy White Complete 10 Body Lotion  (400 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "look",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Bose Frames Rondo  (Smart Glasses, Black)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "every",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Mars Chocolate Bars  (51 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Galaxy Smooth Milk Bars  (36 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "face",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Everyuth Naturals Brightening Lemon And Cherry Face Wash  (150 G)",
+            "Philips Mg3721/77 Pack Of 1 Grooming Kit 60 Min  Runtime 7 Length Settings  (Black)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "after",
+        "classification": "product_keyword",
+        "frequency": 20,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "when",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Mars Chocolate Bars  (51 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "just",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "out",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Mars Chocolate Bars  (51 G)",
+            "Radhekunj Fitness Men, Women Shapewear"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "fresh",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Nike 5Th Element Deodorant Spray - For Women  (200 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "these",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Mars Chocolate Bars  (51 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Complan Creamy Classic  (500 G)",
+            "Whiskas Adult (+1 Year) Fish Cat Treat  (480 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "nutrients",
+        "classification": "product_keyword",
+        "frequency": 19,
+        "related_products": [
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Complan Creamy Classic  (500 G)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "smooth",
+        "classification": "product_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Nikon Af-S Nikkor 50Mm F/1.8G   Lens  (Black, 90 Mm)",
+            "Mars Chocolate Bars  (51 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Gillette Venus Hair Removal Razor For Women"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "women",
+        "classification": "product_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Other",
+            "Automotive",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "other",
+        "classification": "category_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "devices",
+        "classification": "product_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Mi 3I 20000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)",
+            "Boat Micro Usb Cable 2.4 A 1.5 M Micro Usb 500 Black 1.5M  (Compatible With All Micro Usb Supported Devices, Black, One Cable)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "charging",
+        "classification": "product_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Mi 3I 20000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "nutrition",
+        "classification": "product_keyword",
+        "frequency": 18,
+        "related_products": [
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "designed",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Gillette Venus Hair Removal Razor For Women"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Automotive",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "premium",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "than",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "phone",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Stripling Best Price Universal Wired Handheld Photography Video Recording Youtube Caputure Tripod, Tripod Kit, Monopod Kit  (Black, Supports Up To 600 G)",
+            "Gionee Ufit 6 Bluetooth Calling Metallic Frame Smartwatch  (Matte Black Strap, Free Size)",
+            "Boat Storm Call 1.69 Inch Hd Display With Bluetooth Calling And 550 Nits Brightness Smartwatch  (Blue Strap, Free Size)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "life",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Nike 5Th Element Deodorant Spray - For Women  (200 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "ensure",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "selfie",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "ideal",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Nikon Af-S Nikkor 50Mm F/1.8G   Lens  (Black, 90 Mm)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "protein",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "mattress",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Sleepx Dual Medium Soft & Hard 6 Inch King High Density (Hd) Foam Mattress  (L X W: 72 Inch X 70 Inch)",
+            "Sleepycat Original Ortho 3- Layered Medium Firm Memory 6 Inch King High Density (Hd) Foam Mattress  (L X W: 78 Inch X 72 Inch)",
+            "Nilkamal Travelite 1 Inch Single Cotton Mattress  (L X W: 72 Inch X 36 Inch)"
+        ],
+        "related_categories": [
+            "Home"
+        ]
+    },
+    {
+        "keyword": "drink",
+        "classification": "product_keyword",
+        "frequency": 17,
+        "related_products": [
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Complan Creamy Classic  (500 G)",
+            "Closeup Red Hot Mouthwash - Clove Oil  (250 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Automotive",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "white",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Bella Vita Organic White Oud Eau De Parfum,Long Lasting,Unisex Eau De Parfum  -  100 Ml  (For Men & Women)",
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Bright Bharat Uplight Wall Lamp With Bulb"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Office",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "weighing",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "scale",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "fast",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "bank",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Mi 3I 20000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "protection",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "smart",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Bose Frames Rondo  (Smart Glasses, Black)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Callmate L-1 Portable & Flexible Mini Tripod | With 360 Degree Ball Head | For Smart Phones | Compact Cameras | Gopro | Tripod  (Black, Supports Up To 3000 G)",
+            "Dumpfit Men, Women, Unisex Shapewear"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "daily",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Ambrane 20000 Mah Power Bank (22.5 W, Fast Charging)  (Green, Lithium Polymer)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "been",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Mars Chocolate Bars  (51 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Galaxy Smooth Milk Bars  (36 G)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "contains",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)",
+            "Complan Creamy Classic  (500 G)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "shave",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Axe Temptation After Shave Lotion  (100 Ml)",
+            "Nivea Men Sensitive Cooling After Shave Lotion  (100 Ml)",
+            "Spruce Shave Club Perfume Set For Men (Pack Of 4) | Long Lasting Perfume For Men-Best Gift For Men Eau De Parfum  -  32 Ml  (For Men)",
+            "Nivea Men Deep Impact Comfort After Shave Lotion  (100 Ml)",
+            "Old Spice Fresh Lime Pre Shave Cream  (70 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "powder",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Himalaya Khus Khus Baby Powder  (100 G)",
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Nestle Nan Excella Pro Infant Formula Powder (Stage 1)  (400 G, Upto 6 Months)",
+            "Nescafe Classic Instant Coffee  (100 G)"
+        ],
+        "related_categories": [
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "milk",
+        "classification": "product_keyword",
+        "frequency": 16,
+        "related_products": [
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Galaxy Smooth Milk Bars  (36 G)",
+            "Maiyas Instant Mix Badam Milk  (500 G)",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food"
+        ],
+        "related_categories": [
+            "Health",
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "hand",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Complan Creamy Classic  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "ensures",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "weight",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "micro",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock",
+            "Boat Micro Usb Cable 2.4 A 1.5 M Micro Usb 500 Black 1.5M  (Compatible With All Micro Usb Supported Devices, Black, One Cable)",
+            "Mifkrt Micro Usb Cable 1 M Vivo Charging Cable For All Vivo/ Phones And Android Phones, Only Cable,  (Compatible With All Mobile Vivo, Oppo, Samsung, Gionee And Mi, Vivo Phones, White, One Cable)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "unique",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Stripling Best Price Universal Wired Handheld Photography Video Recording Youtube Caputure Tripod, Tripod Kit, Monopod Kit  (Black, Supports Up To 600 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "through",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "only",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "such",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "like",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "enjoy",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "dry",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Pedigree Senior Rice, Chicken 3 Kg Dry Dog Food"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Home",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "feel",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "notes",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Nike 5Th Element Deodorant Spray - For Women  (200 Ml)",
+            "Nivea Men Sensitive Cooling After Shave Lotion  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "pack",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Mars Chocolate Bars  (51 G)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "gentle",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Johnson'S Milk Plus Rice Cream  (100 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "right",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Pantene Lively Clean Shampoo  (650 Ml)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "kids",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Complan Creamy Classic  (500 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "produce",
+        "classification": "product_keyword",
+        "frequency": 15,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "inch",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Dell Inspiron Core I5 11Th Gen - (8 Gb/512 Gb Ssd/Windows 11 Home/4 Gb Graphics/Nvidia Geforce Rtx 3050) G15-5511 Gaming Laptop  (15.6 Inch, Specter Green With Speckles, 2.65 Kg, With Ms Office)",
+            "Sleepycat Original Ortho 3- Layered Medium Firm Memory 6 Inch King High Density (Hd) Foam Mattress  (L X W: 78 Inch X 72 Inch)",
+            "Nilkamal Travelite 1 Inch Single Cotton Mattress  (L X W: 72 Inch X 36 Inch)",
+            "Benq 24 Inch Full Hd Led Backlit Tn Panel Height Adjustment, 3D, Swivel Adjustment, Flicker-Free Gaming Monitor (Xl2411P)  (Response Time: 1 Ms, 144 Hz Refresh Rate)",
+            "Sleepx Dual Medium Soft & Hard 6 Inch King High Density (Hd) Foam Mattress  (L X W: 72 Inch X 70 Inch)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "energy",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "fitness",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "top",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "any",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "charge",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock",
+            "Mi 3I 20000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "over",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Mars Chocolate Bars  (51 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "used",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Bright Bharat Uplight Wall Lamp With Bulb",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "ingredients",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)",
+            "Tresemme Smooth & Shine Shampoo  (185 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Sports",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "leaves",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Gillette Venus Hair Removal Razor For Women",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Other",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "care",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "delicious",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Galaxy Smooth Milk Bars  (36 G)",
+            "Complan Creamy Classic  (500 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Other",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "gift",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Mars Chocolate Bars  (51 G)",
+            "Galaxy Smooth Milk Bars  (36 G)",
+            "Perfumers Club Complete Fragrance Gift Set For Men | 7X8Ml Eau De Parfum | Refill For Lightr| Eau De Parfum  -  56 Ml  (For Men)",
+            "Spruce Shave Club Perfume Set For Men (Pack Of 4) | Long Lasting Perfume For Men-Best Gift For Men Eau De Parfum  -  32 Ml  (For Men)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Home",
+            "Groceries"
+        ]
+    },
+    {
+        "keyword": "each",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Mars Chocolate Bars  (51 G)",
+            "Park Avenue Cool Blue Soap  (6 X 125 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "carefully",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "iron",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Complan Creamy Classic  (500 G)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Philips Mg3721/77 Pack Of 1 Grooming Kit 60 Min  Runtime 7 Length Settings  (Black)"
+        ],
+        "related_categories": [
+            "Health",
+            "Fashion",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "they",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Jeetna Hai To Jid Karo  - Jeetna Hain To Jid Karo Second Edition 2 Edition  (Hindi, Paperback, Hundiwalan S.)",
+            "Complan Creamy Classic  (500 G)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)",
+            "Complan Royale Chocolate  (750 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "buy",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Aachi Badam Drink Mix  (Buy 1 Get 1(200G Each) Free)  (200 G)",
+            "Flipkart Supermart Home Essentials Toilet Paper Roll  (Buy 1 Get 1 Free)  (3 Ply, 200 Sheets)",
+            "Dab N Klean Swachh Kichen Towel  (Buy 1 Get 1 (Dab N Klean Kitchen Towel) Free)  (2 Ply, 90 Sheets)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)"
+        ],
+        "related_categories": [
+            "Office",
+            "Health",
+            "Beauty",
+            "Groceries"
+        ]
+    },
+    {
+        "keyword": "fish",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Taiyo Gold Toyko Turtle Food 1 Kg Chicken 1 Kg Dry Adult, New Born, Young, Senior Turtle Food",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Whiskas Adult (+1 Year) Fish Cat Treat  (480 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries"
+        ]
+    },
+    {
+        "keyword": "rice",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Pedigree Senior Rice, Chicken 3 Kg Dry Dog Food",
+            "Kohinoor Charminar Brown Rice  (1 Kg)",
+            "Johnson'S Milk Plus Rice Cream  (100 G)",
+            "Pedigree Gravy Chicken Chunks For Puppy Chicken 1.2 Kg Wet Dog Food  (Pack Of 15)"
+        ],
+        "related_categories": [
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "flavour",
+        "classification": "product_keyword",
+        "frequency": 14,
+        "related_products": [
+            "Fanta Can  (300 Ml)",
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Rasna Native Haat Honey Vita Chocolate Flavour  (500 G)",
+            "Nescafe Classic Instant Coffee  (100 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Automotive",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "need",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Closeup Red Hot Mouthwash - Clove Oil  (250 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "even",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Mars Chocolate Bars  (51 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "water",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Gillette Venus Hair Removal Razor For Women",
+            "Scotch Brite Kitchen Scrub Wet And Dry Microfibre Cleaning Cloth"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Other",
+            "Automotive"
+        ]
+    },
+    {
+        "keyword": "portable",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "battery",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "well",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Dove Hair Fall Rescue Conditioner  (180 Ml)",
+            "Pedigree Senior Rice, Chicken 3 Kg Dry Dog Food",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Pantene Lively Clean Shampoo  (650 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "multiple",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "using",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Ibda Fingerprint Keyless Smart Biometric ( Pack Of 02 ) Padlocks Smart Door Lock"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "touch",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Redwud Engineered Wood Tv Entertainment Unit  (Finish Color - White, Diy(Do-It-Yourself))",
+            "Johnson'S Milk Plus Rice Cream  (100 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "control",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Himalaya Khus Khus Baby Powder  (100 G)",
+            "Urja Smart Automation L&G A6 Smart Door Lock",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "himalaya",
+        "classification": "brand_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Himalaya Nourishing Body Lotion For Normal Skin  (400 Ml)",
+            "Himalaya Khus Khus Baby Powder  (100 G)",
+            "Himalaya Anti-Dandruff Shampoo,  (400 Ml)",
+            "Himalaya Fairness Kesar Face Wash  (150 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "scalp",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Himalaya Anti-Dandruff Shampoo,  (400 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "minerals",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Indulekha Bhringa Hair Oil  (100 Ml)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Groceries",
+            "Other",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "goodness",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Milkybar Moosha Wheat Cocoa Crispies- 45G Bars  (45 G)",
+            "Flipkart Supermart Select Indian Raisins  (500 G)",
+            "Flipkart Supermart Select Soya Bean  (500 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "into",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Dove Intense Repair Shampoo  (650 Ml)",
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "but",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food",
+            "Vaseline Healthy White Complete 10 Body Lotion  (400 Ml)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "refreshing",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Fanta Can  (300 Ml)",
+            "Plum 1.5% Vitamin C Toner With Mandarin For Glowing Skin | Improves Uneven Skin Tone Men & Women  (100 Ml)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Nescafe Classic Instant Coffee  (100 G)",
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "clean",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Scotch Brite Kitchen Scrub Wet And Dry Microfibre Cleaning Cloth",
+            "Colgate Kids Spiderman Toothpaste  (80 G)",
+            "Sleepx Dual Medium Soft & Hard 6 Inch King High Density (Hd) Foam Mattress  (L X W: 72 Inch X 70 Inch)",
+            "Orbit Sugar Free Spearmint Chewing Gum  (22 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "way",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Bose Frames Rondo  (Smart Glasses, Black)",
+            "Mars Chocolate Bars  (51 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Complan Creamy Classic  (500 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "fabric",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dumpfit Men, Women, Unisex Shapewear",
+            "Sleepycat Original Ortho 3- Layered Medium Firm Memory 6 Inch King High Density (Hd) Foam Mattress  (L X W: 78 Inch X 72 Inch)",
+            "Avaeta Etnic Wear Embellished & Embroideried Floral Print Sherwani"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Home",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "ply",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Rudra Creations Metal Desk Chair  (Finish Color - Blue, Diy(Do-It-Yourself))",
+            "Flipkart Supermart Home Essentials Toilet Paper Roll  (Buy 1 Get 1 Free)  (3 Ply, 200 Sheets)",
+            "Dab N Klean Swachh Kichen Towel  (Buy 1 Get 1 (Dab N Klean Kitchen Towel) Free)  (2 Ply, 90 Sheets)",
+            "Flipkart Supermart Home Essentials 1 Ply White Napkins  (Buy 1 Get 1 Free)  (100 Sheets)",
+            "Dab N Klean Toilet Paper Roll  (Buy 1 Get 1 (Dab N Klean Toilet Rolls) Free)  (3 Ply, 300 Sheets)"
+        ],
+        "related_categories": [
+            "Office",
+            "Home"
+        ]
+    },
+    {
+        "keyword": "chicken",
+        "classification": "product_keyword",
+        "frequency": 13,
+        "related_products": [
+            "Pedigree Senior Rice, Chicken 3 Kg Dry Dog Food",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food",
+            "Taiyo Gold Toyko Turtle Food 1 Kg Chicken 1 Kg Dry Adult, New Born, Young, Senior Turtle Food",
+            "Pedigree Gravy Chicken Chunks For Puppy Chicken 1.2 Kg Wet Dog Food  (Pack Of 15)",
+            "Kohinoor Amritsari Tandoori Chicken Masala  (15 G)"
+        ],
+        "related_categories": [
+            "Home",
+            "Groceries"
+        ]
+    },
+    {
+        "keyword": "comfort",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Nivea Men Deep Impact Comfort After Shave Lotion  (100 Ml)",
+            "Sleepycat Original Ortho 3- Layered Medium Firm Memory 6 Inch King High Density (Hd) Foam Mattress  (L X W: 78 Inch X 72 Inch)",
+            "Benq 24 Inch Full Hd Led Backlit Tn Panel Height Adjustment, 3D, Swivel Adjustment, Flicker-Free Gaming Monitor (Xl2411P)  (Response Time: 1 Ms, 144 Hz Refresh Rate)",
+            "Mifkrt Micro Usb Cable 1 M Vivo Charging Cable For All Vivo/ Phones And Android Phones, Only Cable,  (Compatible With All Mobile Vivo, Oppo, Samsung, Gionee And Mi, Vivo Phones, White, One Cable)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "stay",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Kohinoor Charminar Brown Rice  (1 Kg)",
+            "Philips Mg3721/77 Pack Of 1 Grooming Kit 60 Min  Runtime 7 Length Settings  (Black)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Other",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "steel",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)",
+            "Vagalleryking Pendant Wall Lamp Without Bulb  (Pack Of 2)",
+            "Stripling Best Price Universal Wired Handheld Photography Video Recording Youtube Caputure Tripod, Tripod Kit, Monopod Kit  (Black, Supports Up To 600 G)",
+            "Khargadham Double-Wheeled Ab Abdominal Cross-Fit Gym Equipment For Body Building Fitness Ab Exerciser  (Black, Green)",
+            "Vyog 10Kg Counter Weight Machine With Stainless Steel Top For Shop, Home Weighing Scale  (Blue)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "type",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Portronics Usb Type C Cable 1.2 M Por-1081 Konnect L  (Compatible With All Phones With Type C Port, Grey, One Cable)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "kit",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Stripling Best Price Universal Wired Handheld Photography Video Recording Youtube Caputure Tripod, Tripod Kit, Monopod Kit  (Black, Supports Up To 600 G)",
+            "Cool Indians Best Quality Hand Grip Exerciser/Strengthener For Men & Women Gym & Fitness Kit",
+            "Philips Mg3721/77 Pack Of 1 Grooming Kit 60 Min  Runtime 7 Length Settings  (Black)"
+        ],
+        "related_categories": [
+            "Home",
+            "Fashion",
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "advanced",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Clinic Plus Strong & Long Health Shampoo  (340 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "about",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Time Management  (Hindi, Paperback, Dixit Sudhir)",
+            "Philips 20000 Mah Power Bank (Fast Charging)  (Black, Lithium Polymer)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Electronics",
+            "Home",
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Fashion",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "moisture",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Park Avenue Cool Blue Soap  (6 X 125 G)",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)",
+            "Tresemme Climate Protection Shampoo  (580 Ml)",
+            "Vaseline Healthy White Complete 10 Body Lotion  (400 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "cream",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Johnson'S Milk Plus Rice Cream  (100 G)",
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "L'Oreal Paris Excellence Cream Hair Color  (Deep Plum 416)",
+            "Old Spice Fresh Lime Pre Shave Cream  (70 G)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "family",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Happilo Premium Raw Organic Gluten Free White Quinoa Seeds  (500 G)",
+            "Mars Chocolate Bars  (51 G)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Pantene Lively Clean Shampoo  (650 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)"
+        ],
+        "related_categories": [
+            "Groceries",
+            "Other",
+            "Beauty",
+            "Automotive",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "cleaning",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)",
+            "Pepsodent Expert Protection Whitening Toothpaste  (140 G)"
+        ],
+        "related_categories": [
+            "Automotive",
+            "Groceries",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "keyword": "whey",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Nestle Nangrow Creamy Vanilla Flavour  (400 G)",
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Nestle Nan Excella Pro Infant Formula Powder (Stage 1)  (400 G, Upto 6 Months)"
+        ],
+        "related_categories": [
+            "Health",
+            "Groceries",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "calcium",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Bon Iso Whey 100% Protein Isolate For Muscle Strength And Bone Health Whey Protein  (1 Kg, Irish Chocolate)",
+            "Complan Creamy Classic  (500 G)",
+            "Glucon-D Instant Energy Drink  (450 G, Tangy Orange Flavored)",
+            "Complan Royale Chocolate  (750 G)",
+            "Saffola Fittify Gourmet Superfood Moringa Lemongrass Green Tea Box  (37.5 G)"
+        ],
+        "related_categories": [
+            "Health",
+            "Automotive",
+            "Other",
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "treadmill",
+        "classification": "product_keyword",
+        "frequency": 12,
+        "related_products": [
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Powermax Fitness Td-M1 Treadmill"
+        ],
+        "related_categories": [
+            "Sports"
+        ]
+    },
+    {
+        "keyword": "enhanced",
+        "classification": "product_keyword",
+        "frequency": 11,
+        "related_products": [
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Flipkart Supermart Select Brown Chana  (1 Kg)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Flipkart Supermart Select Unpolished Chana Dal  (1 Kg)",
+            "Flipkart Supermart Select Turmeric (Haldi Sticks)  (100 G)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Groceries",
+            "Other",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "compatible",
+        "classification": "product_keyword",
+        "frequency": 11,
+        "related_products": [
+            "Boat Usb Type C Cable 3 A 1.5 M Deuce Usb 330 2-In-1 Micro And With 3A Fast Charge,480Mbps  (Compatible With Mobile, Tablet, Speaker, Power Bank, Martian Red)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Ubon 10000 Mah Power Bank (12 W, Fast Charging)  (Black, Lithium Polymer)",
+            "Samyang 85Mm T1.5 Vdslr Mk2 For Canon  Lens  (Black, 85 Mm)"
+        ],
+        "related_categories": [
+            "Electronics"
+        ]
+    },
+    {
+        "keyword": "stand",
+        "classification": "product_keyword",
+        "frequency": 11,
+        "related_products": [
+            "Krishna Art Sheesham Wood Standard Tv Entertainment Unit Multipurpose Storage Cabinet Solid Wood Tv Entertainment Unit  (Finish Color - Honey, Diy(Do-It-Yourself))",
+            "Jeteck Tripod Stand 7 Ft For Live Stream-Led Ring Light With Phone Holder Dimmable For Tik-Tok, Mx Taka Tak, Josh, Moj, Mitron, Vigo, Videos, Instagram Reels, Likee Tripod Stand Ring Flash Tripod Kit  (Multicolor, Supports Up To 2000 G)",
+            "Pozub Top Selling Pzbl03 Selfie Stick Tripod With Fill Light +Dustproof Bag Wireless Bluetooth Detachable Remote, 360°Rotation, Selfie Stick And Stand R1S With Flash Light And Remote Control Selfie Stick Extendable Stick Mini Tripod With Detachable Remote For Smart Selfie Phone Holder Camera Flash Brackets Best Use For Make Videos Compatible With Mobiles Video Stand In Gimbal Stabilizer, |In Mobile Holder For Hand| Stand For Online Classes Selfie Sticks & Monopods Tripod, Monopod, Monopod Kit, Tripod Ball Head, Tripod Bracket, Tripod Clamp, Tripod Kit  (Black, Supports Up To 700 G)",
+            "Nike 5Th Element Deodorant Spray - For Women  (200 Ml)",
+            "Benq 24 Inch Full Hd Led Backlit Tn Panel Height Adjustment, 3D, Swivel Adjustment, Flicker-Free Gaming Monitor (Xl2411P)  (Response Time: 1 Ms, 144 Hz Refresh Rate)"
+        ],
+        "related_categories": [
+            "Home",
+            "Electronics",
+            "Beauty"
+        ]
+    },
+    {
+        "keyword": "technology",
+        "classification": "product_keyword",
+        "frequency": 11,
+        "related_products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Softouch Ocean Breeze Fabric Conditioner  (800 Ml)",
+            "Ponds Age Miracle Wrinkle Corrector Day Cream Spf 18 Pa++  (10 G)",
+            "Radhekunj Fitness Men, Women Shapewear",
+            "Dove Gentle Exfoliating Nourishing Body Wash  (190 Ml)"
+        ],
+        "related_categories": [
+            "Electronics",
+            "Home",
+            "Other",
+            "Beauty",
+            "Fashion"
+        ]
+    },
+    {
+        "keyword": "heart",
+        "classification": "product_keyword",
+        "frequency": 11,
+        "related_products": [
+            "Set Wet Chill Avatar Deodorant Spray - For Men  (150 Ml)",
+            "Fitshot Flair 1.43 Super Bright Display Women'S Smartatch With Uv Sensors Smartwatch  (Green Strap, Regular)",
+            "Skinn By Titan Raw - Single Pack Eau De Parfum  -  20 Ml  (For Men)",
+            "Bella Vita Organic Impact Eau De Cologne Perfume For Man With Notes Of Orange,Nutmeg,Woody Cedar Eau De Toilette  -  100 Ml  (For Men)",
+            "Set Wet Funky Avatar Perfume Body Spray - For Men  (120 Ml)"
+        ],
+        "related_categories": [
+            "Fashion",
+            "Electronics",
+            "Other",
+            "Beauty"
+        ]
+    }
+]

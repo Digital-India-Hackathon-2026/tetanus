@@ -1,0 +1,93 @@
+[
+    {
+        "bundle_name": "Birthday Gift Box",
+        "mission": "Birthday",
+        "priority": "LOW",
+        "products": [
+            "Himalaya Gentle Daily Care Protein Shampoo  (400 Ml)",
+            "Parachute Pure Coconut Hair Oil  (300 Ml)",
+            "Head & Shoulders Anti-Hairfall Shampoo  (180 Ml)",
+            "7Up Can  (250 Ml)"
+        ],
+        "estimated_price": 483.0,
+        "bundle_score": 89.29
+    },
+    {
+        "bundle_name": "Dorm Starter Kit",
+        "mission": "Hostel Setup",
+        "priority": "MEDIUM",
+        "products": [
+            "Kelo Suitcase Weighing Scale- 50Kg Portable Hanging Luggage Weight Machine Weighing Scale,50 Kg Weighing Scale With Big Size Electric Kata With Metal Hook, Portable Digital Luggage Scale,Portable Digital Luggage Scale With Metal Hook,Hanging Scale 50Kg Weighing Scale - With Batteries Lu/25/Kk Luggage Weighing Scale  (Black)",
+            "Boat Storm Call 1.69 Inch Hd Display With Bluetooth Calling And 550 Nits Brightness Smartwatch  (Blue Strap, Free Size)",
+            "Sleepx Dual Medium Soft & Hard 6 Inch King High Density (Hd) Foam Mattress  (L X W: 72 Inch X 70 Inch)"
+        ],
+        "estimated_price": 12502.0,
+        "bundle_score": 79.86
+    },
+    {
+        "bundle_name": "Snack & Watch",
+        "mission": "Movie Night",
+        "priority": "LOW",
+        "products": [
+            "Fillyrun Premium 4*1 High Protein Rich Fish Food For Wast Growth Fish 250 Kg Dry New Born, Adult, Senior, Young Fish Food",
+            "Mi 3I 20000 Mah Power Bank (Fast Charging, 18W)  (Black, Lithium Polymer)",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food",
+            "Orbit Sugar Free Spearmint Chewing Gum  (22 G)",
+            "Nestle Munch Nuts Bars  (10% Extra In Pack)  (264 G)",
+            "Limetro Steel Pack Of 50 Stainless Steel Heavy Quality Made In India Mirror Finish Set Of 50 (6 Dinner Plates, 6 Big, 6 Small Halva Plates, 6 Big, 6 Small Bowl/Wati, 6 Glasses, 6 Spoons, 6 Forks, 2 Serving Spoons) Dinner Set  (Steel)"
+        ],
+        "estimated_price": 4600.0,
+        "bundle_score": 84.39
+    },
+    {
+        "bundle_name": "Sunday Meal Prep",
+        "mission": "Weekly Prep",
+        "priority": "LOW",
+        "products": [
+            "Nestle Nan Excella Pro Infant Formula Powder (Stage 1)  (400 G, Upto 6 Months)",
+            "Whiskas Kitten (2-12 Months) Fish 1.1 Kg Dry Cat Food",
+            "Pedigree Puppy Milk, Chicken 3 Kg Dry Dog Food"
+        ],
+        "estimated_price": 1571.0,
+        "bundle_score": 89.36
+    },
+    {
+        "bundle_name": "Ultimate Fitness Pack",
+        "mission": "Gym",
+        "priority": "LOW",
+        "products": [
+            "Pediasure Vanilla Delight Health Drink  (Rs 70 Savings Pack)  (750 G)",
+            "Nivea Cocoa Nourish Oil In Lotion  (400 Ml)",
+            "Powermax Fitness Jogpad-2 Dual Display Treadmill With Bluetooth Speaker Treadmill",
+            "Vaseline Intensive Care Cocoa Glow Body Lotion  (400 Ml)"
+        ],
+        "estimated_price": 31044.0,
+        "bundle_score": 81.41
+    },
+    {
+        "bundle_name": "WFH Essentials",
+        "mission": "Work From Home",
+        "priority": "LOW",
+        "products": [
+            "Bright Bharat Uplight Wall Lamp With Bulb",
+            "Callmate L-1 Portable & Flexible Mini Tripod | With 360 Degree Ball Head | For Smart Phones | Compact Cameras | Gopro | Tripod  (Black, Supports Up To 3000 G)",
+            "Portronics Usb Type C Cable 3 A 1 M Por-656 Konnect Core  (Compatible With Type - C, Black, One Cable)",
+            "Nilkamal Travelite 1 Inch Single Cotton Mattress  (L X W: 72 Inch X 36 Inch)",
+            "Flipkart Supermart Home Essentials Toilet Paper Roll  (Buy 1 Get 1 Free)  (3 Ply, 200 Sheets)"
+        ],
+        "estimated_price": 3043.0,
+        "bundle_score": 80.12
+    },
+    {
+        "bundle_name": "Weekend Getaway",
+        "mission": "Travel Essentials",
+        "priority": "LOW",
+        "products": [
+            "Set Wet Studio X Brightening Face Wash  (100 Ml)",
+            "Dabur Gulabari Premium Rose Water Women  (250 Ml)",
+            "Spruce Shave Club Perfume Set For Men (Pack Of 4) | Long Lasting Perfume For Men-Best Gift For Men Eau De Parfum  -  32 Ml  (For Men)"
+        ],
+        "estimated_price": 615.0,
+        "bundle_score": 81.42
+    }
+]

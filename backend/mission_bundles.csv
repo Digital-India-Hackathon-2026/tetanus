@@ -1,0 +1,29 @@
+bundle_name,mission,priority,product_id
+Dorm Starter Kit,Hostel Setup,MEDIUM,4decc96a-06aa-4d78-aaf8-ceaa8d5fa3ec
+Dorm Starter Kit,Hostel Setup,LOW,1cc530fb-9e28-430b-b4c0-cc3377115f88
+Dorm Starter Kit,Hostel Setup,HIGH,bec90231-dd14-41e7-bf6d-6477f29b2696
+Birthday Gift Box,Birthday,LOW,45493bbb-1f24-4923-bb79-256cb872a501
+Birthday Gift Box,Birthday,HIGH,3220c4d2-5b01-432f-8bc9-3f03d2f63f17
+Birthday Gift Box,Birthday,LOW,3104c705-7f46-4e3c-854c-aeb53bfb5d88
+Birthday Gift Box,Birthday,LOW,781ab087-49ee-4a59-9400-0255bafc7266
+Ultimate Fitness Pack,Gym,LOW,af91784e-39ae-4cf6-887f-27d702c1a168
+Ultimate Fitness Pack,Gym,MEDIUM,20465576-edb9-41da-8a26-fc344d89164f
+Ultimate Fitness Pack,Gym,MEDIUM,c25be59a-41b0-4d4a-9080-a936b823bbde
+Ultimate Fitness Pack,Gym,HIGH,6faa478c-06db-4064-8af2-45a517353cae
+WFH Essentials,Work From Home,LOW,7f79f372-180c-4d4f-ab52-6780dbba5907
+WFH Essentials,Work From Home,LOW,cc4173fc-49c7-48b4-bc85-de3baadef1da
+WFH Essentials,Work From Home,LOW,84f8db18-0e57-4aca-9db7-171a637a0aa3
+WFH Essentials,Work From Home,HIGH,7d95dffb-395f-4f0a-b2b0-bf7a8eb6c0aa
+WFH Essentials,Work From Home,HIGH,92b04a68-e099-4481-a21c-c6b41ca41b1a
+Sunday Meal Prep,Weekly Prep,LOW,585cf15e-a238-4bd0-aaf1-135ed82849cd
+Sunday Meal Prep,Weekly Prep,LOW,8188664d-146d-4434-839a-6007e2f4bcc9
+Sunday Meal Prep,Weekly Prep,HIGH,c687b7f9-bf5e-49d2-8f15-86dace830cc2
+Snack & Watch,Movie Night,LOW,f3386abd-8a35-4e86-840a-96482b009b5c
+Snack & Watch,Movie Night,MEDIUM,bdf69a9b-8609-46db-abaa-c83d51ca6c2e
+Snack & Watch,Movie Night,HIGH,c687b7f9-bf5e-49d2-8f15-86dace830cc2
+Snack & Watch,Movie Night,LOW,c8737cc6-6651-486d-b80a-96a7d3693bc8
+Snack & Watch,Movie Night,MEDIUM,10f959bd-95b9-4c8c-9b99-61beb8b6318f
+Snack & Watch,Movie Night,LOW,e6d0c46b-58f6-4788-bcee-112354903318
+Weekend Getaway,Travel Essentials,LOW,2229ee4d-52bf-4d66-8a35-477a5b009121
+Weekend Getaway,Travel Essentials,MEDIUM,eeb9175f-aebe-4bcb-9628-471472e845c6
+Weekend Getaway,Travel Essentials,HIGH,c8511ace-f535-48a5-ad8c-2b724efa0b6f

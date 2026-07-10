@@ -1,0 +1,5 @@
+{
+    "max_bundles": 2,
+    "min_bundle_size": 2,
+    "max_bundle_size": 4
+}

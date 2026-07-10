@@ -1,0 +1,15 @@
+{
+  "allow_out_of_stock": false,
+  "max_budget_multiplier": 1.20,
+  "minimum_rating": 0,
+  "minimum_quality_score": 0,
+  "remove_duplicates": true,
+  "filter_order": [
+    "BudgetFilter",
+    "MissionCategoryFilter",
+    "BrandFilter",
+    "InventoryFilter",
+    "QualityFilter",
+    "DuplicateFilter"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "default_profile": "balanced",
+    "intent_bonus_map": {
+        "hostel setup": { "bonus": 0.18 },
+        "work from home": { "bonus": 0.15 },
+        "travel": { "bonus": 0.12 },
+        "gym": { "bonus": 0.16 },
+        "movie night": { "bonus": 0.10 },
+        "birthday party": { "bonus": 0.14 },
+        "gaming setup": { "bonus": 0.15 },
+        "college essentials": { "bonus": 0.18 }
+    },
+    "profiles": {
+        "balanced": {
+            "weights": {
+                "intent_bonus": 1.0,
+                "mission_match": 0.35,
+                "budget_match": 0.20,
+                "quality_score": 0.15,
+                "rating": 0.10,
+                "review_count": 0.05,
+                "brand_preference": 0.10,
+                "category_priority": 0.05
+            },
+            "boosts": {
+                "preferred_brand": 0.08,
+                "primary_category": 0.06,
+                "secondary_category": 0.03
+            },
+            "penalties": {
+                "low_rating": 0.08,
+                "low_quality": 0.10,
+                "missing_description": 0.05
+            }
+        },
+        "budget_first": {
+            "weights": {
+                "intent_bonus": 1.0,
+                "mission_match": 0.20,
+                "budget_match": 0.40,
+                "quality_score": 0.10,
+                "rating": 0.10,
+                "review_count": 0.05,
+                "brand_preference": 0.10,
+                "category_priority": 0.05
+            },
+            "boosts": {
+                "preferred_brand": 0.05,
+                "primary_category": 0.04,
+                "secondary_category": 0.02
+            },
+            "penalties": {
+                "low_rating": 0.05,
+                "low_quality": 0.07,
+                "missing_description": 0.03
+            }
+        },
+        "quality_first": {
+            "weights": {
+                "intent_bonus": 1.0,
+                "mission_match": 0.25,
+                "budget_match": 0.10,
+                "quality_score": 0.30,
+                "rating": 0.15,
+                "review_count": 0.05,
+                "brand_preference": 0.10,
+                "category_priority": 0.05
+            },
+            "boosts": {
+                "preferred_brand": 0.06,
+                "primary_category": 0.05,
+                "secondary_category": 0.02
+            },
+            "penalties": {
+                "low_rating": 0.12,
+                "low_quality": 0.15,
+                "missing_description": 0.05
+            }
+        },
+        "premium": {
+            "weights": {
+                "intent_bonus": 1.0,
+                "mission_match": 0.30,
+                "budget_match": 0.05,
+                "quality_score": 0.25,
+                "rating": 0.15,
+                "review_count": 0.10,
+                "brand_preference": 0.10,
+                "category_priority": 0.05
+            },
+            "boosts": {
+                "preferred_brand": 0.10,
+                "primary_category": 0.08,
+                "secondary_category": 0.04
+            },
+            "penalties": {
+                "low_rating": 0.15,
+                "low_quality": 0.15,
+                "missing_description": 0.08
+            }
+        }
+    },
+    "thresholds": {
+        "low_rating_threshold": 3.0,
+        "low_quality_threshold": 4.0,
+        "review_log_scale": 100,
+        "budget_tolerance_factor": 0.5
+    }
+}
